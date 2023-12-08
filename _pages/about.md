@@ -42,14 +42,14 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - ``ECML-PKDD 2020`` [Hierarchical interaction networks with rethinking mechanism for document-level sentiment analysis](https://arxiv.org/pdf/2007.08445.pdf), Lingwei Wei (co-first author), **Dou Hu** (co-first author), Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu
 
 #### Fact Checking
-- ``TMM 2023`` Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection, Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu
+- ``TMM 2023`` [Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection](https://ieeexplore.ieee.org/document/10261246), Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu
 - ``TNNLS 2022`` [Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach](https://ieeexplore.ieee.org/abstract/document/9837882), Lingwei Wei, **Dou Hu**, Wei Zhou, Xin Wang, Songlin Hu
 - ``ACL-IJCNLP 2021`` [Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection](https://aclanthology.org/2021.acl-long.297.pdf), Lingwei Wei, **Dou Hu**, Wei Zhou, Zhaojuan Yue, Songlin Hu
 - ``Journal of Computer Research and Development 2021`` A Rumor Detection Approach based on Multi-relational Propagation Tree ([一种基于多关系传播树的谣言检测方法]((https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)), **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu
 
 # 🎖 Honors and Awards
-- *2023.3* Won the Best System Award at the AfriSenti-SemEval-2023: low-resource sentiment analysis (task C).
-- *2022.3* Won 3 Best System Awards at SemEval-2022, including condescending detection (task 4), sarcasm detection (task 6), and clarifications prediction (task 7).
+- *2023.03* Won the Best System Award at the AfriSenti-SemEval-2023: low-resource sentiment analysis (task C).
+- *2022.03* Won 3 Best System Awards at SemEval-2022, including condescending detection (task 4), sarcasm detection (task 6), and clarifications prediction (task 7).
 
 # 💬 Academic Services
 - Area Chair of NAACL 2024
