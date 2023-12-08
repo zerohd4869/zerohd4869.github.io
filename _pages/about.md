@@ -48,8 +48,8 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - ``Journal of Computer Research and Development 2021`` A Rumor Detection Approach based on Multi-relational Propagation Tree ([一种基于多关系传播树的谣言检测方法]((https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)), **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu
 
 # 🎖 Honors and Awards
-- *2023.03* Won the Best System Award at the AfriSenti-SemEval-2023: low-resource sentiment analysis (task C).
-- *2022.03* Won 3 Best System Awards at SemEval-2022, including condescending detection (task 4), sarcasm detection (task 6), and clarifications prediction (task 7).
+- *Mar 2023*, Won the Best System Award at the AfriSenti-SemEval-2023: low-resource sentiment analysis (task C).
+- *Mar 2022*, Won 3 Best System Awards at SemEval-2022, including condescending detection (task 4), sarcasm detection (task 6), and clarifications prediction (task 7).
 
 
 # 💻 Experience
