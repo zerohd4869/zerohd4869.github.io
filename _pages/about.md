@@ -31,7 +31,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 #### General Representation Learning
 - ``Under review`` Structured Probabilistic Coding, **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu
-- ``ACL 2023`` [Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations](https://aclanthology.org/2023.acl-long.606.pdf), **Dou Hu**, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu
+- ``ACL 2023`` [Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations](https://aclanthology.org/2023.acl-long.606.pdf), **Dou Hu**, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu ![](https://img.shields.io/github/stars/zerohd4869/SACL?style=social&label=Code+Stars)
 - ``Findings of EMNLP 2022`` [VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding](https://aclanthology.org/2022.findings-emnlp.468.pdf), **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi
 
 #### Sentiment Analysis
@@ -56,7 +56,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - *Sep 2019 - Aug 2021*, 6th Research Institute of CEC, Algorithm Intern
 
 # 💬 Invited Talks
-- *Sep 2023*, Presenting a talk on "Supervised Adversarial Contrastive Learning" at AI-TIME with an audience of over 1K+.
+- *Sep 2023*, Presenting a talk on "Supervised Adversarial Contrastive Learning" at AI-TIME with an audience of 1K+.
 
 # 📝 Academic Services
 - Area Chair of NAACL 2024
