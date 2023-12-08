@@ -56,7 +56,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - *Sep 2019 - Aug 2021*, 6th Research Institute of CEC, Algorithm Intern
 
 # 💬 Invited Talks
-- *Sep 2023*, Presented a talk on the topic "Supervised Adversarial Contrastive Learning" at ``AI-TIME``, with an audience of over 1K+.
+- *Sep 2023*, Presenting a talk on "Supervised Adversarial Contrastive Learning" at AI-TIME with an audience of over 1K+.
 
 # 📝 Academic Services
 - Area Chair of NAACL 2024
