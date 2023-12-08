@@ -53,8 +53,8 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 
 # 💻 Experience
-- *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher.
-- *Sep 2019 - Aug 2021*, 6th Research Institute of CEC, Algorithm Researcher.
+- *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher
+- *Sep 2019 - Aug 2021*, 6th Research Institute of CEC, Algorithm Intern
 
 # 💬 Academic Services
 - Area Chair of NAACL 2024
