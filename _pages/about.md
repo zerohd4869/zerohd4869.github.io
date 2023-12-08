@@ -34,7 +34,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - Structured Probabilistic Coding. **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``Under review`` 
 
 - [Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations](https://aclanthology.org/2023.acl-long.606.pdf). **Dou Hu**, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu. ``ACL 2023``
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/supervised-adversarial-contrastive-learning/emotion-recognition-in-conversation-on-4)](https://paperswithcode.com/sota/emotion-recognition-in-conversation-on-4?p=supervised-adversarial-contrastive-learning)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/supervised-adversarial-contrastive-learning/emotion-recognition-in-conversation-on-4&style=social)](https://paperswithcode.com/sota/emotion-recognition-in-conversation-on-4?p=supervised-adversarial-contrastive-learning)
 [![](https://img.shields.io/github/stars/zerohd4869/SACL?style=social&label=Stars)](https://github.com/zerohd4869/SACL)
 
 - [VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding](https://aclanthology.org/2022.findings-emnlp.468.pdf). **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. ``Findings of EMNLP 2022`` 
