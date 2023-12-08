@@ -51,6 +51,11 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - *2023.03* Won the Best System Award at the AfriSenti-SemEval-2023: low-resource sentiment analysis (task C).
 - *2022.03* Won 3 Best System Awards at SemEval-2022, including condescending detection (task 4), sarcasm detection (task 6), and clarifications prediction (task 7).
 
+
+# 💻 Experience
+- *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher.
+- *Sep 2019 - Aug 2021*, 6th Research Institute of CEC, Algorithm Researcher.
+
 # 💬 Academic Services
 - Area Chair of NAACL 2024
 - Journal Reviewer of Engineering Applications of Artificial Intelligence (EAAI)
