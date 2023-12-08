@@ -27,7 +27,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - *2022.02*: &nbsp;🎉🎉 ... 
 
 
-# 📝 Publications
+# 📖 Publications
 
 #### General Representation Learning
 - ``Under review`` Structured Probabilistic Coding, **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu
@@ -51,12 +51,14 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - *Mar 2023*, Won the Best System Award at the AfriSenti-SemEval-2023: low-resource sentiment analysis (task C).
 - *Mar 2022*, Won 3 Best System Awards at SemEval-2022, including condescending detection (task 4), sarcasm detection (task 6), and clarifications prediction (task 7).
 
-
-# 💻 Experience
+# 💻 Experiences
 - *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher
 - *Sep 2019 - Aug 2021*, 6th Research Institute of CEC, Algorithm Intern
 
-# 💬 Academic Services
+# 💬 Invited Talks
+- *Sep 2023*, Presented a talk on the topic "Supervised Adversarial Contrastive Learning" at ``AI-TIME``, with an audience of over 1K+.
+
+# 📝 Academic Services
 - Area Chair of NAACL 2024
 - Journal Reviewer of Engineering Applications of Artificial Intelligence (EAAI)
 - Program Committee of ACL, EMNLP, ACM MM, etc.
