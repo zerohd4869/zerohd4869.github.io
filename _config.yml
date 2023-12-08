@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Dou Hu"
 description              : "Ph.D. candidate at UCAS. Research interests include ML and NLP."
-repository               : "zerohd4869/zerohd4869.github.io"
+repository               : "hudou95/hudou95.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zerohd4869"
+  github           : "hudou95"
   google_plus      :
   keybase          :
   instagram        :
