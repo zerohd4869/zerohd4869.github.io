@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dou Hu is currently pursuing Ph.D. academic committee in the University of Chinese Academy of Sciences, advised by Professor **Songlin Hu**. 
-Prior to this, he obtained bachelor and master degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
+**Dou Hu** is currently a first-year Ph.D. candidate at the University of Chinese Academy of Sciences, advised by Professor [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). 
+Prior to this, he obtained bachelor and master's degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
 
 His current research interests include machine learning and natural language processing, with a particular focus on general representation learning and sentiment analysis. 
-
+If you are interested in his research fields, please feel free to contact him at hudou@iie.ac.cn.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 ... 
@@ -30,7 +30,7 @@ His current research interests include machine learning and natural language pro
 # 📝 Publications
 
 #### General Representation Learning
-- ``Under review`` [Structured Probabilistic Coding](), **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu
+- ``Under review`` Structured Probabilistic Coding, **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu
 - ``ACL 2023`` [Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations](https://aclanthology.org/2023.acl-long.606.pdf), **Dou Hu**, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu
 - ``Findings of EMNLP 2022`` [VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding](https://aclanthology.org/2022.findings-emnlp.468.pdf), **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi
 
@@ -39,7 +39,7 @@ His current research interests include machine learning and natural language pro
 - ``ICASSP 2022`` [MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations](https://arxiv.org/pdf/2203.02385.pdf), **Dou Hu**, Xiaolong Hou, Lingwei Wei, Lianxin Jiang, Yang Mo
 - ``SemEval@NAACL 2022`` [PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection](https://aclanthology.org/2022.semeval-1.43.pdf), **Dou Hu**, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi
 - ``ACL-IJCNLP 2021`` [DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations](https://aclanthology.org/2021.acl-long.547.pdf), **Dou Hu**, Lingwei Wei, Xiaoyong Huai
-- ``ECML-PKDD 2020`` [Hierarchical interaction networks with rethinking mechanism for document-level sentiment analysis](https://arxiv.org/pdf/2007.08445.pdf), Lingwei Wei(Equal Contribution), **Dou Hu** (Equal Contribution), Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu
+- ``ECML-PKDD 2020`` [Hierarchical interaction networks with rethinking mechanism for document-level sentiment analysis](https://arxiv.org/pdf/2007.08445.pdf), Lingwei Wei (co-first author), **Dou Hu** (co-first author), Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu
 
 #### Fact Checking
 - ``TMM 2023`` [Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection](), Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu
