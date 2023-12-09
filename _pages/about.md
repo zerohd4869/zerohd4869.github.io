@@ -26,6 +26,11 @@ Furthermore, he actively participates in the AI community as an Area Chair for N
 
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
+ <a href='https://scholar.google.com/citations?user=cSUULYAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+ [![Google Scholar](https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://scholar.google.com/citations?user=cSUULYAAAAAJ)](https://scholar.google.com/citations?user=cSUULYAAAAAJ)
+ 
+ <span class='show_paper_citations' data='cSUULYAAAAAJ:ALROH1vI_8AC'></span>
+ 
 # 🔥 News
 - *Dec 2023*:  🎉 One paper "Structured Probabilistic Coding" is accepted by AAAI 2023
 
@@ -50,7 +55,6 @@ If you are seeking any form of academic cooperation, please feel free to contact
 [![](https://img.shields.io/github/stars/zerohd4869/MM-DFN?style=social&label=Stars)](https://github.com/zerohd4869/MM-DFN)
 
 - [DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations](https://aclanthology.org/2021.acl-long.547.pdf). **Dou Hu**, Lingwei Wei, Xiaoyong Huai. ``ACL-IJCNLP 2021`` 
-<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [![](https://img.shields.io/github/stars/zerohd4869/DialogueCRN?style=social&label=Stars)](https://github.com/zerohd4869/DialogueCRN)
 
 - [Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis](https://arxiv.org/pdf/2007.08445.pdf). Lingwei Wei (co-first author), **Dou Hu** (co-first author), Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. ``ECML-PKDD 2020`` 
