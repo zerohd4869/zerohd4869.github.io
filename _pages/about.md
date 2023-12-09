@@ -32,6 +32,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
  
  <span class='show_paper_citations'></span>
   
+  <span class='show_paper_citations' data='cSUULYAAAAAJ'></span>
  
 # 🔥 News
 - *Dec 2023*:  🎉 One paper "Structured Probabilistic Coding" is accepted by AAAI 2023
