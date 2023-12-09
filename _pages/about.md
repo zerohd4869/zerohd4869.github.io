@@ -65,6 +65,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - [PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection](https://aclanthology.org/2022.semeval-1.43.pdf). **Dou Hu**, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi. ``SemEval@NAACL 2022`` 
 
 - [Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection](https://aclanthology.org/2021.acl-long.297.pdf). Lingwei Wei, **Dou Hu**, Wei Zhou, Zhaojuan Yue, Songlin Hu. ``ACL-IJCNLP 2021``
+[![](https://img.shields.io/github/stars/weilingwei96/EBGCN?style=social&label=Stars)](https://github.com/weilingwei96/EBGCN)
 
 - A Rumor Detection Approach based on Multi-relational Propagation Tree ([一种基于多关系传播树的谣言检测方法]((https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)). **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. ``Journal of Computer Research and Development 2021``
 
