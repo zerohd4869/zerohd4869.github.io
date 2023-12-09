@@ -27,9 +27,12 @@ Furthermore, he actively participates in the AI community as an Area Chair for N
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
  <a href='https://scholar.google.com/citations?user=cSUULYAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
- [![Google Scholar](https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://scholar.google.com/citations?user=cSUULYAAAAAJ)](https://scholar.google.com/citations?user=cSUULYAAAAAJ)
  
- <span class='show_paper_citations' data='cSUULYAAAAAJ:ALROH1vI_8AC'></span>
+ ![Google Scholar](https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://scholar.google.com/citations?user=cSUULYAAAAAJ)
+ 
+ <span class='show_paper_citations' data='cSUULYAAAAAJ'></span>
+  
+ <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
  
 # 🔥 News
 - *Dec 2023*:  🎉 One paper "Structured Probabilistic Coding" is accepted by AAAI 2023
