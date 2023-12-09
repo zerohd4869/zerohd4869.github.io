@@ -46,6 +46,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 #### Sentiment Analysis
 
 - [UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis](https://aclanthology.org/2023.semeval-1.255.pdf). **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``SemEval@ACL 2023``
+[![](https://img.shields.io/github/stars/zerohd4869/SACL?style=social&label=Stars)](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)
 
 - [MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations](https://arxiv.org/pdf/2203.02385.pdf). **Dou Hu**, Xiaolong Hou, Lingwei Wei, Lianxin Jiang, Yang Mo. ``ICASSP 2022`` 
 [![](https://img.shields.io/github/stars/zerohd4869/MM-DFN?style=social&label=Stars)](https://github.com/zerohd4869/MM-DFN)
