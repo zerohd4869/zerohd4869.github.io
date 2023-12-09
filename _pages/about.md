@@ -21,8 +21,7 @@ redirect_from:
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University (SZU) and National Computer System Engineering Research Institute of China (NCSE), respectively. 
 
 His current research interests include machine learning and natural language processing, with a particular focus on general representation learning, sentiment analysis and harmful language detection. 
-He has published 10+ papers <a href='https://scholar.google.com/citations?user=cSUULYAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-at AI conferences and journals including ACL, EMNLP, NAACL, TNNLS.
+He has published 10+ papers at AI conferences and journals including ACL, EMNLP, NAACL, TNNLS.
 Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI, and a Program Committee member for some AI conferences.
 
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
