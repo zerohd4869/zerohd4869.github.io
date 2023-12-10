@@ -26,6 +26,14 @@ Furthermore, he actively participates in the AI community as an Area Chair for N
 
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
+ <a href='https://scholar.google.com/citations?user=cSUULYAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://scholar.google.com/citations?user=cSUULYAAAAAJ"></a> 
+ 
+ ![Google Scholar](https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://scholar.google.com/citations?user=cSUULYAAAAAJ)
+ 
+ <span class='show_paper_citations'></span>
+  
+ <span class='show_paper_citations' data='cSUULYAAAAAJ'></span>
+ 
 
 # 🔥 News
 - *Dec 2023*:  🎉 One paper "Structured Probabilistic Coding" is accepted by AAAI 2023
@@ -68,7 +76,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - [Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection](https://aclanthology.org/2021.acl-long.297.pdf). Lingwei Wei, **Dou Hu**, Wei Zhou, Zhaojuan Yue, Songlin Hu. ``ACL-IJCNLP 2021``
 [![](https://img.shields.io/github/stars/weilingwei96/EBGCN?style=social&label=Stars)](https://github.com/weilingwei96/EBGCN)
 
-- A Rumor Detection Approach based on Multi-relational Propagation Tree ([一种基于多关系传播树的谣言检测方法]((https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)). **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. ``Journal of Computer Research and Development 2021``
+- A Rumor Detection Approach based on Multi-relational Propagation Tree ([一种基于多关系传播树的谣言检测方法](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)). **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. ``Journal of Computer Research and Development 2021``
 
 # 🎖 Honors and Awards
 - *Mar 2023*, Won the Best System Award at the AfriSenti-SemEval-2023: low-resource sentiment analysis (task C).
