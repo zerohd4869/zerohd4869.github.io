@@ -21,28 +21,20 @@ redirect_from:
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University (SZU) and National Computer System Engineering Research Institute of China (NCSE), respectively. 
 
 His current research interests include machine learning and natural language processing, with a particular focus on general representation learning, sentiment analysis and harmful language detection. 
-He has published 10+ papers at AI conferences and journals including ACL, EMNLP, NAACL, TNNLS.
+He has published 10+ papers at AI conferences and journals including ACL, EMNLP, NAACL, TNNLS, TMM.
 Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI, and a Program Committee member for some AI conferences.
 
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
- <a href='https://scholar.google.com/citations?user=cSUULYAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://scholar.google.com/citations?user=cSUULYAAAAAJ"></a> 
- 
- ![Google Scholar](https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://scholar.google.com/citations?user=cSUULYAAAAAJ)
- 
- <span class='show_paper_citations'></span>
-  
- <span class='show_paper_citations' data='cSUULYAAAAAJ'></span>
- 
 
 # 🔥 News
 - *Dec 2023*:  🎉 One paper "Structured Probabilistic Coding" is accepted by AAAI 2023
+- *Dec 2023*: Invited to serve as an Area Chair for NAACL 2023
+- *Jul 2023*: Received the Best System Award for AfriSenti-SemEval task at SemEval-2023
 
 
 # 📖 Publications
-
 #### General Representation Learning
-
 - Structured Probabilistic Coding. **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``AAAI 2024``
 
 - [Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations](https://aclanthology.org/2023.acl-long.606.pdf). **Dou Hu**, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu. ``ACL 2023``
@@ -52,7 +44,6 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 
 #### Sentiment Analysis
-
 - [UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis](https://aclanthology.org/2023.semeval-1.255.pdf). **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``SemEval@ACL 2023``
 [![](https://img.shields.io/github/stars/zerohd4869/SACL?style=social&label=Stars)](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)
 
@@ -66,7 +57,6 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 
 #### Harmful Language Detection
-
 - [Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection](https://ieeexplore.ieee.org/document/10261246). Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. ``TMM 2023`` 
 
 - [Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach](https://ieeexplore.ieee.org/abstract/document/9837882). Lingwei Wei, **Dou Hu**, Wei Zhou, Xin Wang, Songlin Hu.  ``TNNLS 2022``
