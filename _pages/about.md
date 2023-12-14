@@ -20,16 +20,16 @@ redirect_from:
 **Dou Hu** is currently a second-year Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS), advised by Professor [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). 
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University (SZU) and National Computer System Engineering Research Institute of China (NCSE), respectively. 
 
-His current research interests include machine learning and natural language processing, with a particular focus on general representation learning, sentiment analysis and harmful language detection. 
-He has published 10+ papers at AI conferences and journals including ACL, EMNLP, NAACL, TNNLS, TMM.
+His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful language detection**. 
+He has published 10+ papers at AI conferences and journals including ACL, EMNLP, NAACL, TNNLS, TMM, with a total citation count of 300+.
 Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI, and a Program Committee member for some AI conferences.
 
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
 
 # 🔥 News
-- *Dec 2023*:  🎉 One paper "Structured Probabilistic Coding" is accepted by AAAI 2023
-- *Dec 2023*: Invited to serve as an Area Chair for NAACL 2023
+- *Dec 2023*: 🎉 One paper "Structured Probabilistic Coding" is accepted by AAAI 2024
+- *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024
 - *Jul 2023*: Received the Best System Award for AfriSenti-SemEval task at SemEval-2023
 
 
@@ -77,7 +77,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - *Sep 2019 - Aug 2021*, 6th Research Institute of CEC, Algorithm Intern
 
 # 💬 Invited Talks
-- *Sep 2023*, Presenting a talk on "Supervised Adversarial Contrastive Learning" at AI-TIME with an audience of 1K+.
+- *Sep 2023*, Presenting a talk on Supervised Adversarial Contrastive Learning at AI TIME with an audience of 1K+.
 
 # 📝 Academic Services
 - Area Chair of NAACL 2024
