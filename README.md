@@ -15,7 +15,7 @@ AcadHomepage
 
 Some examples:
 - [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [My Personal Homepage](https://zerohd4869.github.io/)
+- [My Personal Homepage](https://hudou95.github.io/)
 
 ## Key Features
 - **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.

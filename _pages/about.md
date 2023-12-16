@@ -20,18 +20,18 @@ redirect_from:
 **Dou Hu** is currently a second-year Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS), advised by Professor [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). 
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University (SZU) and National Computer System Engineering Research Institute of China (NCSE), respectively. 
 
-His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful language detection**. 
-He has published 10+ papers at AI conferences and journals including ACL, EMNLP, NAACL, TNNLS, TMM, with a total citation count of 300+.
+His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. 
+He has published 10+ papers at AI conferences and journals including ACL, EMNLP, TNNLS, TMM, with a total citation count of 300+.
 Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI, and a Program Committee member for some AI conferences.
 
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
 
 # 🔥 News
-- *Dec 2023*: 🎉 One paper "Structured Probabilistic Coding" is accepted by AAAI 2024
+- *Dec 2023*: 🎉🎉 Two papers are accepted by AAAI 2024 and ICASSP 2024, respectively
 - *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024
 - *Jul 2023*: Received the Best System Award for AfriSenti-SemEval task at SemEval-2023
-
+- *May 2023*: 🎉🎉 Two papers are accepted by ACL 2023
 
 # 📖 Publications
 #### General Representation Learning
@@ -56,7 +56,9 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - [Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis](https://arxiv.org/pdf/2007.08445.pdf). Lingwei Wei (co-first author), **Dou Hu** (co-first author), Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. ``ECML-PKDD 2020`` 
 
 
-#### Harmful Language Detection
+#### Harmful Content Detection
+- Transferring Structure Knowledge: A New Task to Fake news Detection Towards Cold-Start Propagation. Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. ``ICASSP 2024`` 
+
 - [Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection](https://ieeexplore.ieee.org/document/10261246). Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. ``TMM 2023`` 
 
 - [Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach](https://ieeexplore.ieee.org/abstract/document/9837882). Lingwei Wei, **Dou Hu**, Wei Zhou, Xin Wang, Songlin Hu.  ``TNNLS 2022``
@@ -69,8 +71,8 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - A Rumor Detection Approach based on Multi-relational Propagation Tree ([一种基于多关系传播树的谣言检测方法](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)). **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. ``Journal of Computer Research and Development 2021``
 
 # 🎖 Honors and Awards
-- *Mar 2023*, Won the Best System Award at the AfriSenti-SemEval-2023: low-resource sentiment analysis (task C).
-- *Mar 2022*, Won 3 Best System Awards at SemEval-2022, including condescending detection (task 4), sarcasm detection (task 6), and clarifications prediction (task 7).
+- *Jul 2023*, Won the Best System Award at the AfriSenti-SemEval-2023: low-resource sentiment analysis (task C).
+- *Jul 2022*, Won 3 Best System Awards at SemEval-2022, including condescending detection (task 4), sarcasm detection (task 6), and clarifications prediction (task 7).
 
 # 💻 Experiences
 - *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher
