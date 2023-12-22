@@ -35,7 +35,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 # 📖 Publications
 #### General Representation Learning
-- Structured Probabilistic Coding. **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``AAAI 2024``
+- [Structured Probabilistic Coding](https://arxiv.org/pdf/2312.13933.pdf). **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``AAAI 2024``
 
 - [Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations](https://aclanthology.org/2023.acl-long.606.pdf). **Dou Hu**, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu. ``ACL 2023``
 [![](https://img.shields.io/github/stars/zerohd4869/SACL?style=social&label=Stars)](https://github.com/zerohd4869/SACL)
@@ -76,7 +76,6 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 # 💻 Experiences
 - *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher
-- *Sep 2019 - Aug 2021*, 6th Research Institute of CEC, Algorithm Intern
 
 # 💬 Invited Talks
 - *Sep 2023*, Presenting a talk on Supervised Adversarial Contrastive Learning at AI TIME with an audience of 1K+.
