@@ -35,7 +35,8 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 # 📖 Publications
 #### General Representation Learning
-- [Structured Probabilistic Coding](https://arxiv.org/pdf/2312.13933.pdf). **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``AAAI 2024``
+- [Structured Probabilistic Coding](https://arxiv.org/pdf/2312.13933.pdf). 
+**Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``AAAI 2024``
 
 - [Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations](https://aclanthology.org/2023.acl-long.606.pdf). **Dou Hu**, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu. ``ACL 2023``
 [![](https://img.shields.io/github/stars/zerohd4869/SACL?style=social&label=Stars)](https://github.com/zerohd4869/SACL)
