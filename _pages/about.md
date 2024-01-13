@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -22,7 +16,7 @@ Prior to this, he obtained bachelor and master's degrees from Shenzhen Universit
 
 His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. 
 He has published 10+ papers at AI conferences and journals including ACL, EMNLP, TNNLS, TMM, with a total citation count of 300+.
-Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI, and a Program Committee member for some AI conferences.
+Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for some AI conferences.
 
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
@@ -35,8 +29,9 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 # 📖 Publications
 #### General Representation Learning
-- [Structured Probabilistic Coding](https://arxiv.org/pdf/2312.13933.pdf). 
+- [Structured Probabilistic Coding](https://arxiv.org/pdf/2312.13933.pdf). \
 **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``AAAI 2024``
+[![](https://img.shields.io/github/stars/zerohd4869/SPC?style=social&label=Stars)](https://github.com/zerohd4869/SPC)
 
 - [Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations](https://aclanthology.org/2023.acl-long.606.pdf). 
 **Dou Hu**, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu. ``ACL 2023``
@@ -91,9 +86,9 @@ Lingwei Wei, **Dou Hu**, Wei Zhou, Zhaojuan Yue, Songlin Hu. ``ACL-IJCNLP 2021``
 - *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher
 
 # 💬 Invited Talks
-- *Sep 2023*, Presenting a talk on Supervised Adversarial Contrastive Learning at AI TIME with an audience of 1K+.
+- *Sep 2023*, Presenting a talk on Supervised Adversarial Contrastive Learning at AI TIME with an audience of 5K+.
 
 # 📝 Academic Services
 - Area Chair of NAACL 2024
-- Journal Reviewer of Engineering Applications of Artificial Intelligence (EAAI)
+- Journal Reviewer of EAAI, TCSVT
 - Program Committee of ACL, EMNLP, ACM MM, etc.
