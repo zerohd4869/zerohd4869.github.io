@@ -54,7 +54,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 **Dou Hu**, Lingwei Wei, Xiaoyong Huai. ``ACL-IJCNLP 2021`` 
 [![](https://img.shields.io/github/stars/zerohd4869/DialogueCRN?style=social&label=Stars)](https://github.com/zerohd4869/DialogueCRN)
 
-- [Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis](https://arxiv.org/pdf/2007.08445.pdf). \
+- [Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis](https://arxiv.org/abs/2007.08445). \
 Lingwei Wei (co-first author), **Dou Hu** (co-first author), Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. ``ECML-PKDD 2020`` 
 [![](https://img.shields.io/github/stars/zerohd4869/HIN-SR?style=social&label=Stars)](https://github.com/zerohd4869/HIN-SR)
 
