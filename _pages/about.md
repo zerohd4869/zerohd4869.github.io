@@ -15,7 +15,7 @@ redirect_from:
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University (SZU) and National Computer System Engineering Research Institute of China (NCSE), respectively. 
 
 His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. 
-He has published 10+ papers at AI conferences and journals including ACL, EMNLP, TNNLS, TMM, with a total citation count of 300+.
+He has published 10+ papers at AI conferences and journals including ACL, AAAI, TNNLS, TMM, with a total citation count of 300+.
 Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for some AI conferences.
 
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
@@ -27,10 +27,11 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - *Jul 2023*: Received the Best System Award for AfriSenti-SemEval task at SemEval-2023
 - *May 2023*: 🎉🎉 Two papers are accepted by ACL 2023
 
+
 # 📖 Publications
 #### General Representation Learning
 - [Structured Probabilistic Coding](https://arxiv.org/abs/2312.13933). \
-**Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``AAAI 2024``
+**Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``AAAI 2024`` (Oral 2.2%)
 [![](https://img.shields.io/github/stars/zerohd4869/SPC?style=social&label=Stars)](https://github.com/zerohd4869/SPC)
 
 - [Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations](https://aclanthology.org/2023.acl-long.606/). \
@@ -51,11 +52,11 @@ If you are seeking any form of academic cooperation, please feel free to contact
 [![](https://img.shields.io/github/stars/zerohd4869/MM-DFN?style=social&label=Stars)](https://github.com/zerohd4869/MM-DFN)
 
 - [DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations](https://aclanthology.org/2021.acl-long.547/). \
-**Dou Hu**, Lingwei Wei, Xiaoyong Huai. ``ACL-IJCNLP 2021`` 
+**Dou Hu**, Lingwei Wei, Xiaoyong Huai. ``ACL-IJCNLP 2021`` (Oral)
 [![](https://img.shields.io/github/stars/zerohd4869/DialogueCRN?style=social&label=Stars)](https://github.com/zerohd4869/DialogueCRN)
 
 - [Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis](https://arxiv.org/abs/2007.08445). \
-Lingwei Wei (co-first author), **Dou Hu** (co-first author), Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. ``ECML-PKDD 2020`` 
+Lingwei Wei (co-first author), **Dou Hu** (co-first author), Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. ``ECML-PKDD 2020`` (Oral)
 [![](https://img.shields.io/github/stars/zerohd4869/HIN-SR?style=social&label=Stars)](https://github.com/zerohd4869/HIN-SR)
 
 
@@ -74,7 +75,7 @@ Lingwei Wei, **Dou Hu**, Wei Zhou, Xin Wang, Songlin Hu.  ``TNNLS 2022``
 **Dou Hu**, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi. ``SemEval@NAACL 2022`` 
 
 - [Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection](https://aclanthology.org/2021.acl-long.297/). \
-Lingwei Wei, **Dou Hu**, Wei Zhou, Zhaojuan Yue, Songlin Hu. ``ACL-IJCNLP 2021``
+Lingwei Wei, **Dou Hu**, Wei Zhou, Zhaojuan Yue, Songlin Hu. ``ACL-IJCNLP 2021`` (Oral)
 [![](https://img.shields.io/github/stars/weilingwei96/EBGCN?style=social&label=Stars)](https://github.com/weilingwei96/EBGCN)
 
 - A Rumor Detection Approach based on Multi-relational Propagation Tree ([一种基于多关系传播树的谣言检测方法](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)). \
