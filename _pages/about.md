@@ -10,17 +10,9 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_value_site_uv" style="display: none;"></span>
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
-<script>
-    window.onload = function() {
-        var siteUV = document.getElementById('busuanzi_value_site_uv').innerText;
-        var sitePV = document.getElementById('busuanzi_value_site_pv').innerText;
-        console.log('Visitors:', siteUV);
-        console.log('Total visits:', sitePV);
-    };
-</script>
+
 
 
 **Dou Hu** is currently a second-year Ph.D. candidate at the University of Chinese Academy of Sciences, advised by Professor [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). 
