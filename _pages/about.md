@@ -13,6 +13,15 @@ redirect_from:
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <!-- Visitors: <span id="busuanzi_value_site_uv"></span> -->
 <!-- Total visits: <span id="busuanzi_value_site_pv"></span> -->
+<script>
+    window.onload = function() {
+        var siteUV = document.getElementById('busuanzi_value_site_uv').innerText;
+        var sitePV = document.getElementById('busuanzi_value_site_pv').innerText;
+        console.log('Visitors:', siteUV);
+        console.log('Total visits:', sitePV);
+    };
+</script>
+
 
 **Dou Hu** is currently a second-year Ph.D. candidate at the University of Chinese Academy of Sciences, advised by Professor [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). 
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
