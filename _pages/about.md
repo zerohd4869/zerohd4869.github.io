@@ -11,8 +11,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<!-- Visitors: <span id="busuanzi_value_site_uv"></span> -->
-<!-- Total visits: <span id="busuanzi_value_site_pv"></span> -->
+<span id="busuanzi_value_site_uv" style="display: none;"></span>
+<span id="busuanzi_value_site_pv" style="display: none;"></span>
 <script>
     window.onload = function() {
         var siteUV = document.getElementById('busuanzi_value_site_uv').innerText;
