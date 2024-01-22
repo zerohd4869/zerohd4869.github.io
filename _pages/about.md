@@ -55,7 +55,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 - **DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations**. \
   ``Dou Hu``, Lingwei Wei, Xiaoyong Huai.
-  ``ACL-IJCNLP 2021 (Oral)`` [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/DialogueCRN)]
+  ``ACL-IJCNLP 2021 (Oral)`` [[Paper](https://aclanthology.org/2021.acl-long.547/)] [[Code](https://github.com/zerohd4869/DialogueCRN)]
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
   Lingwei Wei (co-first author), ``Dou Hu`` (co-first author), Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu.
