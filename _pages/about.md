@@ -77,8 +77,8 @@ If you are seeking any form of academic cooperation, please feel free to contact
   Lingwei Wei, ``Dou Hu``, Wei Zhou, Xin Wang, Songlin Hu.
   ``TNNLS 2022`` [[Paper](https://ieeexplore.ieee.org/abstract/document/9837882)]
 
-- **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**(). \
-  ``Dou Hu``, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi.
+- **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
+  ``Dou Hu``, Mengyuan Zhou, Xiyang Du, Mengfei Yuan, Meizhi Jin, Lianxin Jiang, Yang Mo, Xiaofeng Shi.
   ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43/)] 
 
 - **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**. \
