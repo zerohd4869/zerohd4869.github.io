@@ -97,8 +97,8 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher
 
 # 💬 Invited Talks
-- *Jan 2024*, Invited talk "Structured Probabilistic Coding" at AI TIME.
-- *Sep 2023*, Invited talk "Supervised Adversarial Contrastive Learning" at AI TIME with an audience of 5K+.
+- *Jan 2024*, Invited talk "Structured Probabilistic Coding" at both AI TIME and CIPS pre-conference.
+- *Sep 2023*, Invited talk "Supervised Adversarial Contrastive Learning" at AI TIME.
 
 # 📝 Academic Services
 - Area Chair: NAACL 2024
