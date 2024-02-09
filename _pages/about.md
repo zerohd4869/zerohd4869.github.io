@@ -17,7 +17,7 @@ redirect_from:
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
 
 His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. 
-He has published 10+ papers at AI conferences and journals including ACL, AAAI, EMNLP, TNNLS, with a total citation count of 300+.
+He has published 10+ papers at AI conferences and journals including ACL, AAAI, EMNLP, TNNLS, with a total citation count of 400+.
 Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for several AI conferences.
 
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
@@ -97,7 +97,8 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher
 
 # 💬 Invited Talks
-- *Jan 2024*, Invited talk "Structured Probabilistic Coding" at both AI TIME and CIPS pre-conference.
+- *Jan 2024*, Invited talk "Structured Probabilistic Coding" at CIPS pre-conference.
+- *Jan 2024*, Invited talk "Structured Probabilistic Coding" at AI TIME.
 - *Sep 2023*, Invited talk "Supervised Adversarial Contrastive Learning" at AI TIME.
 
 # 📝 Academic Services
