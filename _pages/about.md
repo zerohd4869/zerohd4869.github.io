@@ -26,7 +26,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 # 🔥 News
 - *Dec 2023*: 🎉🎉 Two papers are accepted by AAAI 2024 and ICASSP 2024, respectively
 - *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024
-- *Jul 2023*: Received a Best System Award at SemEval-2023
+- *Jul 2023*: 🎉 Received a Best System Award at SemEval-2023
 - *May 2023*: 🎉🎉 Two papers are accepted by ACL 2023
 
 
@@ -54,6 +54,10 @@ If you are seeking any form of academic cooperation, please feel free to contact
   ``Dou Hu``, Xiaolong Hou, Lingwei Wei, Lianxin Jiang, Yang Mo.
   ``ICASSP 2022`` [[Paper](https://arxiv.org/abs/2203.02385)] [[Code](https://github.com/zerohd4869/MM-DFN)]
 
+- **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
+  ``Dou Hu``, Mengyuan Zhou, Xiyang Du, Mengfei Yuan, Meizhi Jin, Lianxin Jiang, Yang Mo, Xiaofeng Shi.
+  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43/)] 
+
 - **DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations**. \
   ``Dou Hu``, Lingwei Wei, Xiaoyong Huai.
   ``ACL-IJCNLP 2021 (Oral)`` [[Paper](https://aclanthology.org/2021.acl-long.547/)] [[Code](https://github.com/zerohd4869/DialogueCRN)]
@@ -76,10 +80,6 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - **Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach**. \
   Lingwei Wei, ``Dou Hu``, Wei Zhou, Xin Wang, Songlin Hu.
   ``TNNLS 2022`` [[Paper](https://ieeexplore.ieee.org/abstract/document/9837882)]
-
-- **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
-  ``Dou Hu``, Mengyuan Zhou, Xiyang Du, Mengfei Yuan, Meizhi Jin, Lianxin Jiang, Yang Mo, Xiaofeng Shi.
-  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43/)] 
 
 - **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**. \
   Lingwei Wei, ``Dou Hu``, Wei Zhou, Zhaojuan Yue, Songlin Hu.
