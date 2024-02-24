@@ -46,6 +46,9 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 
 #### Sentiment Analysis
+- **Multi-stream Information Fusion Framework for Emotional Support Conversation**. \
+  Yinan Bao, ``Dou Hu``, Lingwei Wei, Shuchong Wei, Wei Zhou, Songlin Hu. ``LREC-COLING 2024``
+
 - **UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis**. \
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``SemEval@ACL 2023``
   [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
