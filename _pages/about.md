@@ -17,17 +17,17 @@ redirect_from:
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
 
 His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. 
-He has published 10+ papers at AI conferences and journals including ACL, AAAI, EMNLP, TNNLS, with a total citation count of 400+.
+He has published 10+ papers at AI conferences and journals including ACL, AAAI, EMNLP, TNNLS, ECML, with 4 first-author papers in CCF-A conferences.
 Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for several AI conferences.
 
 If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
 
 # 🔥 News
-- *Dec 2023*: 🎉🎉 Two papers are accepted by AAAI 2024 and ICASSP 2024, respectively
-- *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024
-- *Jul 2023*: 🎉 Received a Best System Award at SemEval-2023
-- *May 2023*: 🎉🎉 Two papers are accepted by ACL 2023
+- *Dec 2023*: 🎉🎉 Two papers are accepted by AAAI 2024 and ICASSP 2024, respectively.
+- *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024.
+- *Jul 2023*: 🎉 Received a Best System Award at SemEval-2023.
+- *May 2023*: 🎉🎉 Two papers are accepted by ACL 2023.
 
 
 # 📖 Publications
@@ -93,8 +93,9 @@ If you are seeking any form of academic cooperation, please feel free to contact
   ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 # 🎖 Honors and Awards
-- *Jul 2023*, Won the Best System Award at the AfriSenti-SemEval-2023: low-resource sentiment analysis (task C).
-- *Jul 2022*, Won 3 Best System Awards at SemEval-2022, including condescending detection (task 4), sarcasm detection (task 6), and clarifications prediction (task 7).
+- *Jul 2023*, Best System Award at SemEval-2023 (task 12).
+- *Jul 2022*, 4 Best System Awards at SemEval-2022 (task 4, 6, 7).
+
 
 # 💻 Experiences
 - *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher
