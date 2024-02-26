@@ -1,4 +1,4 @@
----
+![image](https://github.com/hudou95/hudou95.github.io/assets/29748734/a7b9508b-2043-4ee3-a079-577c376f186c)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,10 +17,10 @@ redirect_from:
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
 
 His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. 
-He has published 10+ papers at AI conferences and journals including ACL, AAAI, EMNLP, TNNLS, ECML, with 4 first-author papers in CCF-A conferences.
+He has published 10+ papers at AI conferences and journals including ACL, AAAI, EMNLP, TNNLS, ECML, among which there are 4 CCF-A papers as the first author.
 Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for several AI conferences.
 
-If you are seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
+If you are interested in his work or seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
 
 # 🔥 News
