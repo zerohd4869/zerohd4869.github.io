@@ -1,4 +1,4 @@
-![image](https://github.com/hudou95/hudou95.github.io/assets/29748734/a7b9508b-2043-4ee3-a079-577c376f186c)---
+---
 permalink: /
 title: ""
 excerpt: ""
