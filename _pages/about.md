@@ -16,7 +16,7 @@ redirect_from:
 **Dou Hu** is currently a second-year Ph.D. candidate at the University of Chinese Academy of Sciences, advised by Professor [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). 
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
 
-His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. He has published 10+ papers at AI conferences and journals including ACL, AAAI, EMNLP, TNNLS, ECML, among which there are 4 CCF-A papers as the first author. Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for several AI conferences.
+His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. He has published 10+ papers at AI conferences and journals including ACL, AAAI, EMNLP, ECML, TNNLS, among which there are 4 first-author CCF-A papers. Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for several AI conferences.
 
 If you are interested in his work or seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
@@ -92,7 +92,7 @@ If you are interested in his work or seeking any form of academic cooperation, p
 
 # 🎖 Honors and Awards
 - *Jul 2023*, Best System Award at SemEval-2023 (task 12).
-- *Jul 2022*, 4 Best System Awards at SemEval-2022 (task 4, 6, 7).
+- *Jul 2022*, 3 Best System Awards at SemEval-2022 (task 4, 6, 7).
 
 
 # 💻 Experiences
