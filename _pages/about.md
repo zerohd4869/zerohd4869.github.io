@@ -16,7 +16,7 @@ redirect_from:
 **Dou Hu** is currently a second-year Ph.D. candidate at the University of Chinese Academy of Sciences, advised by Professor [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). 
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
 
-His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. 
+His current research interests include machine learning and natural language processing, with a particular focus on **universal representation learning**, **sentiment analysis**, and **harmful content detection**. 
 He has published 10+ first-author papers at AI conferences/journals, including 4 CCF-A papers.
 In the past two years, he has won a total of 4 Best System Awards at SemEval.
 Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for several AI conferences.
@@ -32,7 +32,7 @@ If you are interested in his work or seeking any form of academic cooperation, p
 
 
 # 📖 Publications
-#### General Representation Learning
+#### Universal Representation Learning
 - **Structured Probabilistic Coding**. \
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu.
   ``AAAI 2024 (Oral 2.2%)`` [[Paper](https://arxiv.org/abs/2312.13933)] [[Code](https://github.com/zerohd4869/SPC)]
