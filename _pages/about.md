@@ -17,15 +17,15 @@ redirect_from:
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
 
 His current research interests include machine learning and natural language processing, with a particular focus on **universal representation learning**, **sentiment analysis**, and **harmful content detection**. 
-He has published 10+ first-author papers at AI conferences/journals, including 4 CCF-A papers.
-In the past two years, he has won a total of 4 Best System Awards at SemEval.
+He has published over 10 first-author papers at AI conferences/journals, including 4 CCF-A papers.
+He also has won a total of 4 Best System Awards at SemEval-2022/2023.
 Furthermore, he actively participates in the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for several AI conferences.
 
 If you are interested in his work or seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
 
 # 🔥 News
-- *Dec 2023*: 🎉🎉 Two papers are accepted by AAAI 2024 and ICASSP 2024, respectively.
+- *Dec 2023*: 🎉 One paper are accepted by AAAI 2024 (Oral).
 - *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024.
 - *Jul 2023*: 🎉 Received a Best System Award at SemEval-2023.
 - *May 2023*: 🎉🎉 Two papers are accepted by ACL 2023.
@@ -75,15 +75,15 @@ If you are interested in his work or seeking any form of academic cooperation, p
 #### Harmful Content Detection
 - **Transferring Structure Knowledge: A New Task to Fake news Detection Towards Cold-Start Propagation**. \
   Lingwei Wei, ``Dou Hu``, Wei Zhou, Songlin Hu.
-  ``ICASSP 2024`` 
+  ``ICASSP 2024``
+
+- **Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach**. \
+  Lingwei Wei, ``Dou Hu``, Wei Zhou, Xin Wang, Songlin Hu.
+  ``TNNLS 2024`` [[Paper](https://ieeexplore.ieee.org/document/9837882)]
 
 - **Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection**.  \
   Lingwei Wei, ``Dou Hu``, Wei Zhou, Songlin Hu.
   ``TMM 2023`` [[Paper](https://ieeexplore.ieee.org/document/10261246)]
-
-- **Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach**. \
-  Lingwei Wei, ``Dou Hu``, Wei Zhou, Xin Wang, Songlin Hu.
-  ``TNNLS 2022`` [[Paper](https://ieeexplore.ieee.org/abstract/document/9837882)]
 
 - **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**. \
   Lingwei Wei, ``Dou Hu``, Wei Zhou, Zhaojuan Yue, Songlin Hu.
@@ -94,8 +94,9 @@ If you are interested in his work or seeking any form of academic cooperation, p
   ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 # 🎖 Honors and Awards
-- *Jul 2023*, Best System Award at SemEval-2023 (task 12).
-- *Jul 2022*, 3 Best System Awards at SemEval-2022 (task 4, 6, 7).
+- *Jul 2023*, Received a Best System Award at SemEval-2023 (task 12).
+- *Mar 2022*, won the first place at SemEval-2023 (task 12).
+- *Mar 2022*, won three first places at SemEval-2022 (task 4, 6, 7).
 
 
 # 💻 Experiences
