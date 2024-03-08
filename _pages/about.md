@@ -94,7 +94,7 @@ If you are interested in his work or seeking any form of academic cooperation, p
   ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 # 🎖 Honors and Awards
-- *Jul 2023*, Received a Best System Award at SemEval-2023 (task 12).
+- *Jul 2023*, received a Best System Award at SemEval-2023 (task 12).
 - *Mar 2022*, won the first place at SemEval-2023 (task 12).
 - *Mar 2022*, won three first places at SemEval-2022 (task 4, 6, 7).
 
