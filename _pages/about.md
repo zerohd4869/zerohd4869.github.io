@@ -97,7 +97,7 @@ If you are interested in his work or seeking any form of academic cooperation, p
 
 # 🎖 Honors and Awards
 - *Jul 2023*, received the Best System Award at SemEval-2023 (task 12).
-- *Mar 2022*, won the first place at SemEval-2023 (task 12).
+- *Mar 2023*, won the first place at SemEval-2023 (task 12).
 - *Mar 2022*, won 3 first places at SemEval-2022 (task 4, 6, 7).
 
 
