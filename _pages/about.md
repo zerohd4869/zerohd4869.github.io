@@ -16,7 +16,7 @@ redirect_from:
 **Dou Hu** is currently a second-year Ph.D. candidate at the University of Chinese Academy of Sciences, advised by Professor [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). 
 Prior to this, he obtained bachelor and master's degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
 
-His current research interests include machine learning and natural language processing, with a particular focus on **universal representation learning**, **sentiment analysis**, and **harmful content detection**. 
+His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. 
 He has published over 10 papers as the primary author in AI conferences and journals, including 4 CCF-A papers.
 Furthermore, he won the first place in 4 tasks at SemEval-2022/2023, and was honored with the Best System Award at SemEval-2023.
 Additionally, he actively contributes to the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for various AI conferences.
@@ -34,7 +34,7 @@ If you are interested in his work or seeking any form of academic cooperation, p
 
 
 # 📖 Publications
-#### Universal Representation Learning
+#### General Representation Learning
 - **Structured Probabilistic Coding**. \
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu.
   ``AAAI 2024 (Oral 2.2%)`` [[Paper](https://arxiv.org/abs/2312.13933)] [[Code](https://github.com/zerohd4869/SPC)]
@@ -63,6 +63,10 @@ If you are interested in his work or seeking any form of academic cooperation, p
 - **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
   ``Dou Hu``, Mengyuan Zhou, Xiyang Du, Mengfei Yuan, Meizhi Jin, Lianxin Jiang, Yang Mo, Xiaofeng Shi.
   ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43/)] 
+
+- **PALI-NLP at SemEval-2022 Task 6: iSarcasmEval- Fine-tuning the Pre-trained Model for Detecting Intended Sarcasm**. \
+    Xiyang Du, ``Dou Hu``, Jin Zhi, Lianxin Jiang, Xiaofeng Shi.
+  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.153/)] 
 
 - **DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations**. \
   ``Dou Hu``, Lingwei Wei, Xiaoyong Huai.
