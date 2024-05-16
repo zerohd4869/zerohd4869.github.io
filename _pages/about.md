@@ -25,6 +25,7 @@ If you are interested in his work or seeking any form of academic cooperation, p
 
 
 # 🔥 News
+- *May 2024*: 🎉 One paper are accepted by ACL 2024.
 - *Feb 2024*: 🎉 One paper are accepted by LREC-COLING 2024.
 - *Dec 2023*: 🎉 One paper are accepted by ICASSP 2024.
 - *Dec 2023*: 🎉 One paper are accepted by AAAI 2024 (Oral).
@@ -35,6 +36,9 @@ If you are interested in his work or seeking any form of academic cooperation, p
 
 # 📖 Publications
 #### General Representation Learning
+- **Restricted Information Flow Maximization**. \
+  ``Dou Hu``, Lingwei Wei, Wei Zhou, Songlin Hu.
+  ``ACL 2024``
 - **Structured Probabilistic Coding**. \
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu.
   ``AAAI 2024 (Oral 2.2%)`` [[Paper](https://arxiv.org/abs/2312.13933)] [[Code](https://github.com/zerohd4869/SPC)]
@@ -100,9 +104,9 @@ If you are interested in his work or seeking any form of academic cooperation, p
   ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 # 🎖 Honors and Awards
-- *Jul 2023*, received the Best System Award at SemEval-2023 (task 12).
-- *Mar 2023*, won the first place at SemEval-2023 (task 12).
-- *Mar 2022*, won 3 first places at SemEval-2022 (task 4, 6, 7).
+- *Jul 2023*, received the Best System Award at SemEval-2023 Task 12.
+- *Mar 2023*, won the first place at SemEval-2023 Task 12.
+- *Mar 2022*, won the first place at SemEval-2022 Task 4, 6, 7.
 
 
 # 💻 Experiences
