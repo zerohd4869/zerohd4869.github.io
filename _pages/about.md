@@ -19,16 +19,16 @@ Prior to this, he obtained bachelor and master's degrees from Shenzhen Universit
 His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. 
 He has published over 10 papers as the primary author in AI conferences and journals, including 4 CCF-A papers.
 Furthermore, he won the first place in 4 tasks at SemEval-2022/2023, and was honored with the Best System Award at SemEval-2023.
-Additionally, he actively contributes to the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Program Committee member for various AI conferences.
+Additionally, he actively contributes to the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Conference Reviewer for various AI conferences.
 
 If you are interested in his work or seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
 
 
 # 🔥 News
-- *May 2024*: 🎉 One paper are accepted by ACL 2024.
-- *Feb 2024*: 🎉 One paper are accepted by LREC-COLING 2024.
-- *Dec 2023*: 🎉 One paper are accepted by ICASSP 2024.
-- *Dec 2023*: 🎉 One paper are accepted by AAAI 2024 (Oral).
+- *May 2024*: 🎉 One paper is accepted by ACL 2024.
+- *Feb 2024*: 🎉 One paper is accepted by LREC-COLING 2024.
+- *Dec 2023*: 🎉 One paper is accepted by ICASSP 2024.
+- *Dec 2023*: 🎉 One paper is accepted by AAAI 2024 (Oral).
 - *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024.
 - *Jul 2023*: 🎉 Received the Best System Award at SemEval 2023.
 - *May 2023*: 🎉🎉 Two papers are accepted by ACL 2023.
@@ -104,9 +104,9 @@ If you are interested in his work or seeking any form of academic cooperation, p
   ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 # 🎖 Honors and Awards
-- *Jul 2023*, received the Best System Award at SemEval-2023 Task 12.
-- *Mar 2023*, won the first place at SemEval-2023 Task 12.
-- *Mar 2022*, won the first place at SemEval-2022 Task 4, 6, 7.
+- *Jul 2023*, the Best System Award at SemEval-2023 Task 12.
+- *Mar 2023*, the first place at SemEval-2023 Task 12.
+- *Mar 2022*, the first place at SemEval-2022 Task 4, 6, 7.
 
 
 # 💻 Experiences
@@ -121,4 +121,4 @@ If you are interested in his work or seeking any form of academic cooperation, p
 # 📝 Academic Services
 - Area Chair: NAACL 2024
 - Journal Reviewer: EAAI, TCSVT
-- Program Committee: ACL, EMNLP, ACM MM, etc.
+- Conference Reviewer/Program Committee: ACL, EMNLP, ACM MM, etc.
