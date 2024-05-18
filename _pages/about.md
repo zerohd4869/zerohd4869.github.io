@@ -13,7 +13,7 @@ redirect_from:
 <span id="busuanzi_value_site_uv" style="display: none;"></span>
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
-I am a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). My current research interests include machine learning and natural language processing. Before starting my Ph.D., I obtained my bachelor's degree in Physics at Shenzhen University, and my master's degree in Software Engineering at the National Computer System Engineering Research Institute of China.
+I am a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. My current research interests include machine learning and natural language processing. Before starting my Ph.D., I obtained my bachelor's degree in Physics at Shenzhen University, and my master's degree in Software Engineering at the National Computer System Engineering Research Institute of China.
 
 I have published over 10 papers as the primary author in AI conferences and journals. I am also lucky to win the first place in 4 tasks at SemEval-2022/2023, and be honored with the Best System Award at SemEval-2023.
 
@@ -30,16 +30,20 @@ I have published over 10 papers as the primary author in AI conferences and jour
 - *Dec 2023*: 🎉 One paper is accepted by ICASSP 2024 main conference.
 - *Dec 2023*: 🎉 One paper is accepted by AAAI 2024 main conference (Oral).
 - *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024.
-- *Jul 2023*: 🎉 Received the Best System Award at SemEval 2023.
+- *Jul 2023*: 🎖 Received the Best System Award at SemEval 2023.
 - *May 2023*: 🎉🎉 One paper is accepted by ACL 2023 main conference + One paper is accepted by ACL 2023 SemEval Workshop.
+<!--
+- *Mar 2023*: 🎖 Won the first place of the AfriSenti-SemEval Task at SemEval 2023.
 - *Dec 2022*: 🎉 One paper is accepted by Findings of EMNLP 2023.
 - *Sep 2022*: I start my PhD journey.
+-->
 
 # 📖 Publications
 #### General Representation Learning
-- **Restricted Information Flow Maximization**. \
+- **Conditional Information Flow Maximization**. \
   ``Dou Hu``, Lingwei Wei, Wei Zhou, Songlin Hu.
-  ``ACL 2024``
+  ``ACL 2024`` [[Code](https://github.com/zerohd4869/CIFM)]
+  
 - **Structured Probabilistic Coding**. \
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu.
   ``AAAI 2024 (Oral 2.2%)`` [[Paper](https://arxiv.org/abs/2312.13933)] [[Code](https://github.com/zerohd4869/SPC)]
@@ -106,11 +110,11 @@ I have published over 10 papers as the primary author in AI conferences and jour
 
 # 🎖 Awards
 - Merit Student of UCAS, 2024.
-- Best System Award of the AfriSenti-SemEval Shared Task, SemEval@ACL 2023.
-- First place of the AfriSenti-SemEval Task, SemEval@ACL 2023.
-- First place of the iSarcasmEval Task, SemEval@NAACL 2022.
-- First place of the Identifying Plausible Clarifications Task, SemEval@NAACL 2022.
-- First place of the Patronizing and Condescending Language Detection Task, SemEval@NAACL 2022.
+- Best System Award of the AfriSenti-SemEval Task, SemEval-2023.
+- First place of the AfriSenti-SemEval Task, SemEval-2023.
+- First place of the iSarcasmEval Task, SemEval-2022.
+- First place of the Identifying Plausible Clarifications Task, SemEval-2022.
+- First place of the Patronizing and Condescending Language Detection Task, SemEval-2022.
 
 
 # 💻 Experiences
