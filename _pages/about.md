@@ -13,15 +13,15 @@ redirect_from:
 <span id="busuanzi_value_site_uv" style="display: none;"></span>
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
-I am a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. My current research interests include machine learning and natural language processing. Before starting my Ph.D., I obtained my bachelor's degree in Physics at Shenzhen University, and my master's degree in Software Engineering at the National Computer System Engineering Research Institute of China.
+He is a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research is focused on natural language processing and machine learning. Before starting his Ph.D., He obtained the bachelor's degree in Physics at Shenzhen University, and the master's degree in Software Engineering at the National Computer System Engineering Research Institute of China.
 
-I have published over 10 papers as the primary author in AI conferences and journals. I am also lucky to win the first place in 4 tasks at SemEval-2022/2023, and be honored with the Best System Award at SemEval-2023.
+He has published over 10 papers as the primary author in AI conferences and journals. He is also lucky to have won the first place in 5 tasks at the SemEval Workshops, and be honored with the Best System Award at SemEval-2022.
 
-# Research Topics
-- General Representation Learning
-- Representation Learning for Large Language Model
-- NLP Application (Sentiment Analysis, Harmful Content Detection, ...)
-
+# Research Interests
+- Representation Learning for NLP
+- Sentiment Analysis
+- Harmful Content Detection
+- Trustworthy Large Language Model
 
 
 # 🔥 News
@@ -31,7 +31,7 @@ I have published over 10 papers as the primary author in AI conferences and jour
 - *Dec 2023*: 🎉 One paper is accepted by AAAI 2024 main conference (Oral).
 - *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024.
 - *Jul 2023*: 🎖 Received the Best System Award at SemEval 2023.
-- *May 2023*: 🎉🎉 One paper is accepted by ACL 2023 main conference + One paper is accepted by ACL 2023 SemEval Workshop.
+- *May 2023*: 🎉🎉 One paper is accepted by ACL 2023 main conference + one paper is accepted by ACL 2023 SemEval Workshop.
 
 <!--
 - *Mar 2023*: 🎖 Won the first place of the AfriSenti-SemEval Task at SemEval 2023.
@@ -40,7 +40,7 @@ I have published over 10 papers as the primary author in AI conferences and jour
 -->
 
 # 📖 Publications
-#### General Representation Learning
+#### Representation Learning for NLP
 - **Conditional Information Flow Maximization**. \
   ``Dou Hu``, Lingwei Wei, Wei Zhou, Songlin Hu.
   ``ACL 2024`` [[Code](https://github.com/zerohd4869/CIFM)]
@@ -112,10 +112,11 @@ I have published over 10 papers as the primary author in AI conferences and jour
 # 🎖 Awards
 - Merit Student of UCAS, 2024.
 - Best System Award of the AfriSenti-SemEval Task, SemEval-2023.
-- First place of the AfriSenti-SemEval Task, SemEval-2023.
-- First place of the iSarcasmEval Task, SemEval-2022.
-- First place of the Identifying Plausible Clarifications Task, SemEval-2022.
+- First place of the Sentiment Analysis for African Languages Task, SemEval-2023.
 - First place of the Patronizing and Condescending Language Detection Task, SemEval-2022.
+- First place of the Intended Sarcasm Detection Task, SemEval-2022.
+- First place of the Identifying Plausible Clarifications Task, SemEval-2022.
+- Co-first place of the Multimedia Automatic Misogyny Identification, SemEval-2022. 
 
 
 # 💻 Experiences
@@ -129,5 +130,5 @@ I have published over 10 papers as the primary author in AI conferences and jour
 
 # 📝 Academic Services
 - Area Chair: NAACL 2024
-- Journal Reviewer: EAAI, TCSVT
-- Conference Reviewer/Program Committee: ACL, EMNLP, ACM MM, etc.
+- Journal Reviewer: TCSVT, EAAI
+- Conference Reviewer: ACL, EMNLP, ACM MM, etc.
