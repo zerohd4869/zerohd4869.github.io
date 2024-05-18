@@ -13,26 +13,27 @@ redirect_from:
 <span id="busuanzi_value_site_uv" style="display: none;"></span>
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
-**Dou Hu** is currently a second-year Ph.D. candidate at the University of Chinese Academy of Sciences, advised by Professor [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). 
-Prior to this, he obtained bachelor and master's degrees from Shenzhen University and National Computer System Engineering Research Institute of China, respectively. 
+I am a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. [**Songlin Hu**](https://people.ucas.edu.cn/~husonglin?language=en). My current research interests include machine learning and natural language processing. Before starting my Ph.D., I obtained my bachelor's degree in Physics at Shenzhen University, and my master's degree in Software Engineering at the National Computer System Engineering Research Institute of China.
 
-His current research interests include machine learning and natural language processing, with a particular focus on **general representation learning**, **sentiment analysis**, and **harmful content detection**. 
-He has published over 10 papers as the primary author in AI conferences and journals, including 4 CCF-A papers.
-Furthermore, he won the first place in 4 tasks at SemEval-2022/2023, and was honored with the Best System Award at SemEval-2023.
-Additionally, he actively contributes to the AI community as an Area Chair for NAACL 2024, a Journal Reviewer for EAAI and TCSVT, and a Conference Reviewer for various AI conferences.
+I have published over 10 papers as the primary author in AI conferences and journals. I am also lucky to win the first place in 4 tasks at SemEval-2022/2023, and be honored with the Best System Award at SemEval-2023.
 
-If you are interested in his work or seeking any form of academic cooperation, please feel free to contact him at [hudou@iie.ac.cn](mailto:hudou@iie.ac.cn).
+# Research Topics
+- Representation Learning for NLP
+- Representation Learning for Large Language Model
+- NLP Application (Sentiment Analysis, Harmful Content Detection, ...)
+
 
 
 # 🔥 News
-- *May 2024*: 🎉 One paper is accepted by ACL 2024.
-- *Feb 2024*: 🎉 One paper is accepted by LREC-COLING 2024.
-- *Dec 2023*: 🎉 One paper is accepted by ICASSP 2024.
-- *Dec 2023*: 🎉 One paper is accepted by AAAI 2024 (Oral).
+- *May 2024*: 🎉 One paper is accepted by ACL 2024 main conference.
+- *Feb 2024*: 🎉 One paper is accepted by LREC-COLING 2024 main conference.
+- *Dec 2023*: 🎉 One paper is accepted by ICASSP 2024 main conference.
+- *Dec 2023*: 🎉 One paper is accepted by AAAI 2024 main conference (Oral).
 - *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024.
 - *Jul 2023*: 🎉 Received the Best System Award at SemEval 2023.
-- *May 2023*: 🎉🎉 Two papers are accepted by ACL 2023.
-
+- *May 2023*: 🎉🎉 One paper is accepted by ACL 2023 main conference + One paper is accepted by ACL 2023 SemEval Workshop.
+- *Dec 2022*: 🎉 One paper is accepted by Findings of EMNLP 2023.
+- *Sep 2022*: I start my PhD journey.
 
 # 📖 Publications
 #### General Representation Learning
@@ -103,10 +104,10 @@ If you are interested in his work or seeking any form of academic cooperation, p
   ``Dou Hu``, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu.
   ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
-# 🎖 Honors and Awards
-- *Jul 2023*, the Best System Award at SemEval-2023 Task 12.
-- *Mar 2023*, the first place at SemEval-2023 Task 12.
-- *Mar 2022*, the first place at SemEval-2022 Task 4, 6, 7.
+# 🎖 Awards
+- Best System Award, SemEval-2023 Task 12.
+- First place at SemEval-2023 Task 12.
+- First place at SemEval-2022 Task 4,6,7.
 
 
 # 💻 Experiences
