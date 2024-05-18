@@ -18,7 +18,7 @@ I am a second-year Ph.D. candidate at the University of Chinese Academy of Scien
 I have published over 10 papers as the primary author in AI conferences and journals. I am also lucky to win the first place in 4 tasks at SemEval-2022/2023, and be honored with the Best System Award at SemEval-2023.
 
 # Research Topics
-- Representation Learning for NLP
+- General Representation Learning
 - Representation Learning for Large Language Model
 - NLP Application (Sentiment Analysis, Harmful Content Detection, ...)
 
@@ -105,13 +105,16 @@ I have published over 10 papers as the primary author in AI conferences and jour
   ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 # 🎖 Awards
-- Best System Award, SemEval-2023 Task 12.
-- First place at SemEval-2023 Task 12.
-- First place at SemEval-2022 Task 4,6,7.
+- Merit Student of UCAS, 2024.
+- Best System Award of the AfriSenti-SemEval Shared Task, SemEval@ACL 2023.
+- First place of the AfriSenti-SemEval Task, SemEval@ACL 2023.
+- First place of the iSarcasmEval Task, SemEval@NAACL 2022.
+- First place of the Identifying Plausible Clarifications Task, SemEval@NAACL 2022.
+- First place of the Patronizing and Condescending Language Detection Task, SemEval@NAACL 2022.
 
 
 # 💻 Experiences
-- *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher
+- *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher.
 
 # 💬 Invited Talks
 - *Feb 2024*, Invited talk "Structured Probabilistic Coding" at AAAI-2024.
