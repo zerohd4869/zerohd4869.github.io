@@ -15,7 +15,7 @@ redirect_from:
 
 He is a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research is focused on natural language processing and machine learning. Before starting his Ph.D., He obtained the bachelor's degree in Physics at Shenzhen University, and the master's degree in Software Engineering at the National Computer System Engineering Research Institute of China.
 
-He has published over 10 papers as the primary author in AI conferences and journals. He is also lucky to have won the first place in 5 tasks at the SemEval Workshops, and be honored with the Best System Award at SemEval-2022.
+He has published over 10 papers in AI conferences and journals as the first author. Additionally, he has achieved first place in five tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2022.
 
 # Research Interests
 - Representation Learning for NLP
