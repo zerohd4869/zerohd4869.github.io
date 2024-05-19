@@ -15,7 +15,7 @@ redirect_from:
 
 He is a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research is focused on natural language processing and machine learning. Before starting his Ph.D., He obtained the bachelor's degree in Physics at Shenzhen University, and the master's degree in Software Engineering at the National Computer System Engineering Research Institute of China.
 
-He has published over 10 papers in AI conferences and journals as the first author. Additionally, he has achieved first place in five tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2023.
+He has published over 10 papers in AI conferences and journals as the first author. Additionally, he has achieved first place in 5 tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2023.
 
 # Research Interests
 - Representation Learning for NLP
@@ -75,7 +75,7 @@ He has published over 10 papers in AI conferences and journals as the first auth
   ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43/)] 
 
 - **PALI-NLP at SemEval-2022 Task 6: iSarcasmEval- Fine-tuning the Pre-trained Model for Detecting Intended Sarcasm**. \
-    Xiyang Du, ``Dou Hu``, Jin Zhi, Lianxin Jiang, Xiaofeng Shi.
+    Xiyang Du, ``Dou Hu``, Meizhi Jin, Lianxin Jiang, Xiaofeng Shi.
   ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.153/)] 
 
 - **DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations**. \
@@ -100,6 +100,10 @@ He has published over 10 papers in AI conferences and journals as the first auth
 - **Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection**.  \
   Lingwei Wei, ``Dou Hu``, Wei Zhou, Songlin Hu.
   ``TMM 2023`` [[Paper](https://ieeexplore.ieee.org/document/10261246)]
+
+- **PAIC at SemEval-2022 Task 5: Multi-Modal Misogynous Detection in MEMES with Multi-Task Learning And Multi-model Fusion**.  \
+- Meizhi Jin, Zhou Mengyuan, Mengfei Yuan, ``Dou Hu``, Xiyang Du, Lianxin Jiang, Yang Mo, Xiaofeng Shi.
+- ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.76/)]
 
 - **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**. \
   Lingwei Wei, ``Dou Hu``, Wei Zhou, Zhaojuan Yue, Songlin Hu.
