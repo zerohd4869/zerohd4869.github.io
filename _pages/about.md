@@ -15,13 +15,13 @@ redirect_from:
 
 He is a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research is focused on natural language processing and machine learning. Before starting his Ph.D., He obtained the bachelor's degree in Physics at Shenzhen University, and the master's degree in Software Engineering at the National Computer System Engineering Research Institute of China.
 
-He has published over 10 papers in AI conferences and journals as the first author. Additionally, he has achieved first place in five tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2022.
+He has published over 10 papers in AI conferences and journals as the first author. Additionally, he has achieved first place in five tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2023.
 
 # Research Interests
 - Representation Learning for NLP
 - Sentiment Analysis
 - Harmful Content Detection
-- Trustworthy Large Language Model
+- Trustworthy Large Language Models
 
 
 # 🔥 News
@@ -49,10 +49,6 @@ He has published over 10 papers in AI conferences and journals as the first auth
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu.
   ``AAAI 2024 (Oral 2.2%)`` [[Paper](https://arxiv.org/abs/2312.13933)] [[Code](https://github.com/zerohd4869/SPC)]
 
-- **Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations**. \
-  ``Dou Hu``, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu.
-  ``ACL 2023`` [[Paper](https://aclanthology.org/2023.acl-long.606/)] [[Code](https://github.com/zerohd4869/SACL)]
-
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  \
   ``Dou Hu``, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi.
   ``Findings of EMNLP 2022`` [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
@@ -66,6 +62,10 @@ He has published over 10 papers in AI conferences and journals as the first auth
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``SemEval@ACL 2023``
   [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
 
+- **Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations**. \
+  ``Dou Hu``, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu.
+  ``ACL 2023`` [[Paper](https://aclanthology.org/2023.acl-long.606/)] [[Code](https://github.com/zerohd4869/SACL)]
+  
 - **MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations**. \
   ``Dou Hu``, Xiaolong Hou, Lingwei Wei, Lianxin Jiang, Yang Mo.
   ``ICASSP 2022`` [[Paper](https://arxiv.org/abs/2203.02385)] [[Code](https://github.com/zerohd4869/MM-DFN)]
@@ -131,4 +131,4 @@ He has published over 10 papers in AI conferences and journals as the first auth
 # 📝 Academic Services
 - Area Chair: NAACL 2024
 - Journal Reviewer: TCSVT, EAAI
-- Conference Reviewer: ACL, EMNLP, ACM MM, etc.
+- Conference Reviewer: ACL 2023/2024, EMNLP 2023, ACM MM 2023/2024, etc.
