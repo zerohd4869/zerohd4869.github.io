@@ -15,13 +15,13 @@ redirect_from:
 
 He is a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research is focused on natural language processing and machine learning. Before starting his Ph.D., He obtained the bachelor's degree in Physics at Shenzhen University, and the master's degree in Software Engineering at the National Computer System Engineering Research Institute of China.
 
-He has published over 10 papers in AI conferences and journals as the first author. Additionally, he has achieved first place in 5 tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2023.
+Additionally, he has achieved first place in 5 tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2023.
 
 # Research Interests
 - Representation Learning for NLP
 - Sentiment Analysis
-- Harmful Content Detection
 - Trustworthy Large Language Models
+
 
 
 # 🔥 News
@@ -39,7 +39,7 @@ He has published over 10 papers in AI conferences and journals as the first auth
 - *Sep 2022*: I start my PhD journey.
 -->
 
-# 📖 Publications
+# 📖 Publications (Selected)
 #### Representation Learning for NLP
 - **Conditional Information Flow Maximization**. \
   ``Dou Hu``, Lingwei Wei, Wei Zhou, Songlin Hu.
@@ -49,6 +49,10 @@ He has published over 10 papers in AI conferences and journals as the first auth
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu.
   ``AAAI 2024 (Oral 2.2%)`` [[Paper](https://arxiv.org/abs/2312.13933)] [[Code](https://github.com/zerohd4869/SPC)]
 
+- **Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations**. \
+  ``Dou Hu``, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu.
+  ``ACL 2023`` [[Paper](https://aclanthology.org/2023.acl-long.606/)] [[Code](https://github.com/zerohd4869/SACL)]
+  
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  \
   ``Dou Hu``, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi.
   ``Findings of EMNLP 2022`` [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
@@ -62,10 +66,6 @@ He has published over 10 papers in AI conferences and journals as the first auth
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``SemEval@ACL 2023``
   [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
 
-- **Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations**. \
-  ``Dou Hu``, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu.
-  ``ACL 2023`` [[Paper](https://aclanthology.org/2023.acl-long.606/)] [[Code](https://github.com/zerohd4869/SACL)]
-  
 - **MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations**. \
   ``Dou Hu``, Xiaolong Hou, Lingwei Wei, Lianxin Jiang, Yang Mo.
   ``ICASSP 2022`` [[Paper](https://arxiv.org/abs/2203.02385)] [[Code](https://github.com/zerohd4869/MM-DFN)]
@@ -73,10 +73,6 @@ He has published over 10 papers in AI conferences and journals as the first auth
 - **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
   ``Dou Hu``, Mengyuan Zhou, Xiyang Du, Mengfei Yuan, Meizhi Jin, Lianxin Jiang, Yang Mo, Xiaofeng Shi.
   ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43/)] 
-
-- **PALI-NLP at SemEval-2022 Task 6: iSarcasmEval- Fine-tuning the Pre-trained Model for Detecting Intended Sarcasm**. \
-    Xiyang Du, ``Dou Hu``, Meizhi Jin, Lianxin Jiang, Xiaofeng Shi.
-  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.153/)] 
 
 - **DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations**. \
   ``Dou Hu``, Lingwei Wei, Xiaoyong Huai.
@@ -87,31 +83,6 @@ He has published over 10 papers in AI conferences and journals as the first auth
   ``ECML-PKDD 2020 (Oral)`` [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)]
 
 
-
-#### Harmful Content Detection
-- **Transferring Structure Knowledge: A New Task to Fake news Detection Towards Cold-Start Propagation**. \
-  Lingwei Wei, ``Dou Hu``, Wei Zhou, Songlin Hu.
-  ``ICASSP 2024``
-
-- **Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach**. \
-  Lingwei Wei, ``Dou Hu``, Wei Zhou, Xin Wang, Songlin Hu.
-  ``TNNLS 2024`` [[Paper](https://ieeexplore.ieee.org/document/9837882)]
-
-- **Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection**.  \
-  Lingwei Wei, ``Dou Hu``, Wei Zhou, Songlin Hu.
-  ``TMM 2023`` [[Paper](https://ieeexplore.ieee.org/document/10261246)]
-
-- **PAIC at SemEval-2022 Task 5: Multi-Modal Misogynous Detection in MEMES with Multi-Task Learning And Multi-model Fusion**.  \
-- Meizhi Jin, Zhou Mengyuan, Mengfei Yuan, ``Dou Hu``, Xiyang Du, Lianxin Jiang, Yang Mo, Xiaofeng Shi.
-- ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.76/)]
-
-- **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**. \
-  Lingwei Wei, ``Dou Hu``, Wei Zhou, Zhaojuan Yue, Songlin Hu.
-  ``ACL-IJCNLP 2021 (Oral)`` [[Paper](https://aclanthology.org/2021.acl-long.297/)] 
-
-- **A Rumor Detection Approach based on Multi-relational Propagation Tree** (一种基于多关系传播树的谣言检测方法). \
-  ``Dou Hu``, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu.
-  ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 # 🎖 Awards
 - Merit Student of UCAS, 2024.
