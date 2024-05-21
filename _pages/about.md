@@ -21,7 +21,7 @@ He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops 
 - Representation Learning for NLP
 - Trustworthy Large Language Models
 - Sentiment and Emotion Analysis
-
+- Harmful Content Detection
 
 # 🔥 News
 - *May 2024*: 🎉 One paper is accepted by ACL 2024 main conference.
@@ -39,6 +39,8 @@ He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops 
 -->
 
 # 📖 Publications (Selected)
+A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/NAACL/TNNLS/TMM/etc. You can also browse his [Google Scholar profile](https://scholar.google.com/citations?user=cSUULYAAAAAJ). 
+
 #### Representation Learning for NLP
 - **Conditional Information Flow Maximization**. \
   ``Dou Hu``, Lingwei Wei, Wei Zhou, Songlin Hu.
@@ -57,7 +59,7 @@ He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops 
   ``Findings of EMNLP 2022`` [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
 
 
-#### Sentiment Analysis
+#### Sentiment and Emotion Analysis
 - **Multi-stream Information Fusion Framework for Emotional Support Conversation**. \
   Yinan Bao, ``Dou Hu``, Lingwei Wei, Shuchong Wei, Wei Zhou, Songlin Hu. ``LREC-COLING 2024``
 
@@ -73,13 +75,42 @@ He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops 
   ``Dou Hu``, Mengyuan Zhou, Xiyang Du, Mengfei Yuan, Meizhi Jin, Lianxin Jiang, Yang Mo, Xiaofeng Shi.
   ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43/)] 
 
+- **PALI-NLP at SemEval-2022 Task 6: iSarcasmEval- Fine-tuning the Pre-trained Model for Detecting Intended Sarcasm**. \
+    Xiyang Du, ``Dou Hu``, Meizhi Jin, Lianxin Jiang, Xiaofeng Shi.
+  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.153/)] 
+
 - **DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations**. \
   ``Dou Hu``, Lingwei Wei, Xiaoyong Huai.
   ``ACL-IJCNLP 2021 (Oral)`` [[Paper](https://aclanthology.org/2021.acl-long.547/)] [[Code](https://github.com/zerohd4869/DialogueCRN)]
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
-  Lingwei Wei (co-first author), ``Dou Hu`` (co-first author), Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu.
-  ``ECML-PKDD 2020 (Oral)`` [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)]
+  Lingwei Wei*, ``Dou Hu``\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu.
+  ``ECML-PKDD 2020`` [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)] (\* Equal Contribution)
+
+#### Harmful Content Detection
+- **Transferring Structure Knowledge: A New Task to Fake news Detection Towards Cold-Start Propagation**. \
+  Lingwei Wei, ``Dou Hu``, Wei Zhou, Songlin Hu.
+  ``ICASSP 2024``
+
+- **Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach**. \
+  Lingwei Wei, ``Dou Hu``, Wei Zhou, Xin Wang, Songlin Hu.
+  ``TNNLS 2024`` [[Paper](https://ieeexplore.ieee.org/document/9837882)]
+
+- **Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection**.  \
+  Lingwei Wei, ``Dou Hu``, Wei Zhou, Songlin Hu.
+  ``TMM 2023`` [[Paper](https://ieeexplore.ieee.org/document/10261246)]
+  
+- **PAIC at SemEval-2022 Task 5: Multi-Modal Misogynous Detection in MEMES with Multi-Task Learning And Multi-model Fusion**.  \
+  Meizhi Jin, Zhou Mengyuan, Mengfei Yuan, ``Dou Hu``, Xiyang Du, Lianxin Jiang, Yang Mo, Xiaofeng Shi.
+  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.76/)]
+
+- **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**. \
+  Lingwei Wei, ``Dou Hu``, Wei Zhou, Zhaojuan Yue, Songlin Hu.
+  ``ACL-IJCNLP 2021 (Oral)`` [[Paper](https://aclanthology.org/2021.acl-long.297/)] 
+
+- **A Rumor Detection Approach based on Multi-relational Propagation Tree** (一种基于多关系传播树的谣言检测方法). \
+  ``Dou Hu``, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu.
+  ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 
 
