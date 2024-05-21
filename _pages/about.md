@@ -14,12 +14,13 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 He is a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research focuses on natural language processing and machine learning. Before starting his Ph.D., he obtained a bachelor's degree in Physics from Shenzhen University and a master's degree in Software Engineering from the National Computer System Engineering Research Institute of China. 
+
 He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2023.
 
 # Research Interests
 - Representation Learning for NLP
 - Trustworthy Large Language Models
-- Sentiment Analysis
+- Sentiment and Emotion Analysis
 
 
 # 🔥 News
@@ -97,7 +98,7 @@ He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops 
 
 # 💬 Invited Talks
 - *Feb 2024*, Invited talk "Structured Probabilistic Coding" at AAAI-2024.
-- *Jan 2024*, Invited talk "Structured Probabilistic Coding" at CIPS pre-conference.
+- *Jan 2024*, Invited talk "Structured Probabilistic Coding" at CIPS.
 - *Jan 2024*, Invited talk "Structured Probabilistic Coding" at AI TIME.
 - *Sep 2023*, Invited talk "Supervised Adversarial Contrastive Learning" at AI TIME.
 
