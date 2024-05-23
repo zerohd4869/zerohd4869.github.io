@@ -136,4 +136,4 @@ A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/N
 # 📝 Academic Services
 - Area Chair: NAACL 2024
 - Journal Reviewer: TCSVT, EAAI
-- Conference Reviewer: ACL 2023/2024, EMNLP 2023, ACM MM 2023/2024, etc.
+- Conference Reviewer: NeurIPS 2024, ACL 2023/2024, EMNLP 2023, ACM MM 2023/2024, etc.
