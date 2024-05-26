@@ -37,7 +37,7 @@ He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops 
 - *Sep 2022*: I start my PhD journey.
 -->
 
-# 📖 Publications (Selected)
+# 📖 Selected Publications
 A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/NAACL/TNNLS/TMM/etc. You can also browse his [Google Scholar profile](https://scholar.google.com/citations?user=cSUULYAAAAAJ). 
 
 #### Representation Learning for NLP
