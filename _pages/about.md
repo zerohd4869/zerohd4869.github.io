@@ -120,12 +120,12 @@ A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/N
 - First place of the Patronizing and Condescending Language Detection Task, SemEval-2022.
 - First place of the Intended Sarcasm Detection Task, SemEval-2022.
 - First place of the Identifying Plausible Clarifications Task, SemEval-2022.
-- Co-first place of the Multimedia Automatic Misogyny Identification, SemEval-2022. 
+- Co-first place of the Multimedia Automatic Misogyny Identification Task, SemEval-2022. 
 
 
 # 💻 Experiences
-- *Aug 2021 - Aug 2022*, Ping An of China, AI Researcher.
-- *Aug 2019 - Aug 2021*, China Electronics, AI Research Intern.
+- *Aug 2021 - Aug 2022*, Researcher, Ping An of China.
+- *Aug 2019 - Aug 2021*, Research Intern, China Electronics.
 
 # 💬 Invited Talks
 - *Feb 2024*, Invited talk "Structured Probabilistic Coding" at AAAI-2024.
