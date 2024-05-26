@@ -13,8 +13,7 @@ redirect_from:
 <span id="busuanzi_value_site_uv" style="display: none;"></span>
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
-He is a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research focuses on natural language processing and machine learning. Before starting his Ph.D., he obtained a bachelor's degree in Physics from Shenzhen University and a master's degree in Software Engineering from the National Computer System Engineering Research Institute of China. 
-
+He is a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research focuses on natural language processing and machine learning. 
 He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2023.
 
 # Research Interests
@@ -125,7 +124,8 @@ A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/N
 
 
 # 💻 Experiences
-- *Aug 2021 - Aug 2022*, Ping An Life Insurance, Algorithm Researcher.
+- *Aug 2021 - Aug 2022*, Ping An of China, AI Researcher.
+- *Aug 2019 - Aug 2021*, China Electronics, AI Research Intern.
 
 # 💬 Invited Talks
 - *Feb 2024*, Invited talk "Structured Probabilistic Coding" at AAAI-2024.
