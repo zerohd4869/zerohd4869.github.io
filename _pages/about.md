@@ -23,17 +23,17 @@ He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops 
 - Harmful Content Detection
 
 # 🔥 News
-- *May 2024*: 🎉 One paper is accepted by ACL 2024 main conference.
-- *Feb 2024*: 🎉 One paper is accepted by LREC-COLING 2024 main conference.
-- *Dec 2023*: 🎉 One paper is accepted by ICASSP 2024 main conference.
-- *Dec 2023*: 🎉 One paper is accepted by AAAI 2024 main conference (Oral).
+- *May 2024*: 🎉 One paper is accepted to ACL 2024 main conference.
+- *Feb 2024*: 🎉 One paper is accepted to LREC-COLING 2024 main conference.
+- *Dec 2023*: 🎉 One paper is accepted to ICASSP 2024 main conference.
+- *Dec 2023*: 🎉 One paper is accepted to AAAI 2024 main conference (Oral).
 - *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024.
 - *Jul 2023*: 🎖 Received the Best System Award at SemEval 2023.
-- *May 2023*: 🎉🎉 One paper is accepted by ACL 2023 main conference + one paper is accepted by ACL 2023 SemEval Workshop.
+- *May 2023*: 🎉🎉 One paper is accepted to ACL 2023 main conference, and one paper is accepted to ACL 2023 SemEval Workshop.
 
 <!--
 - *Mar 2023*: 🎖 Won the first place of the AfriSenti-SemEval Task at SemEval 2023.
-- *Dec 2022*: 🎉 One paper is accepted by Findings of EMNLP 2023.
+- *Dec 2022*: 🎉 One paper is accepted to Findings of EMNLP 2023.
 - *Sep 2022*: I start my PhD journey.
 -->
 
@@ -41,7 +41,7 @@ He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops 
 A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/NAACL/TNNLS/TMM/etc. You can also browse his [Google Scholar profile](https://scholar.google.com/citations?user=cSUULYAAAAAJ). 
 
 #### Representation Learning for NLP
-- **Conditional Information Flow Maximization**. \
+- **Representation Learning with Conditional Information Flow Maximization**. \
   ``Dou Hu``, Lingwei Wei, Wei Zhou, Songlin Hu.
   ``ACL 2024`` [[Code](https://github.com/zerohd4869/CIFM)]
   
