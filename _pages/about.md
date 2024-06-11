@@ -43,7 +43,7 @@ A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/N
 #### Representation Learning for NLP
 - **Representation Learning with Conditional Information Flow Maximization**. \
   ``Dou Hu``, Lingwei Wei, Wei Zhou, Songlin Hu.
-  ``ACL 2024`` [[Code](https://github.com/zerohd4869/CIFM)]
+  ``ACL 2024`` [[Paper](https://arxiv.org/abs/2406.05510)] [[Code](https://github.com/zerohd4869/CIFM)]
   
 - **Structured Probabilistic Coding**. \
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu.
