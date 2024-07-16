@@ -14,13 +14,13 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 He is a second-year Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research focuses on natural language processing and machine learning. 
-He achieved first place in 5 semantic evaluation tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2023.
+He achieved first place in 5 tasks at the SemEval Workshops and was honored with the Best System Award at SemEval-2023 .
 
 # Research Interests
 - Representation Learning for NLP
-- Trustworthy Large Language Models
 - Sentiment and Emotion Analysis
 - Harmful Content Detection
+- Trustworthy Large Language Models
 
 # 🔥 News
 - *May 2024*: 🎉 One paper is accepted to ACL 2024 main conference.
@@ -47,7 +47,7 @@ A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/N
   
 - **Structured Probabilistic Coding**. \
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu.
-  ``AAAI 2024 (Oral 2.2%)`` [[Paper](https://arxiv.org/abs/2312.13933)] [[Code](https://github.com/zerohd4869/SPC)]
+  ``AAAI 2024 (Oral 2.2%)`` [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29142)] [[Code](https://github.com/zerohd4869/SPC)]
 
 - **Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations**. \
   ``Dou Hu``, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu.
@@ -119,8 +119,7 @@ A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/N
 - First place of the Sentiment Analysis for African Languages Task, SemEval-2023.
 - First place of the Patronizing and Condescending Language Detection Task, SemEval-2022.
 - First place of the Intended Sarcasm Detection Task, SemEval-2022.
-- First place of the Identifying Plausible Clarifications Task, SemEval-2022.
-- Co-first place of the Multimedia Automatic Misogyny Identification Task, SemEval-2022. 
+- First place of the Multimedia Automatic Misogyny Identification Task, SemEval-2022. 
 
 
 # 💻 Experiences
@@ -134,6 +133,6 @@ A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/N
 - *Sep 2023*, Invited talk "Supervised Adversarial Contrastive Learning" at AI TIME.
 
 # 📝 Academic Services
-- Area Chair: NAACL 2024
+- Area Chair: NAACL ARR 2024
 - Journal Reviewer: TCSVT, EAAI
-- Conference Reviewer: NeurIPS 2024, ACL 2023/2024, EMNLP 2023, ACM MM 2023/2024, etc.
+- Conference Reviewer: NeurIPS 2024, ACL 2023/2024, EMNLP 2023, etc.
