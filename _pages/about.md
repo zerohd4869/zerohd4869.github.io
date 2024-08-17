@@ -21,7 +21,7 @@ My research interests include natural language processing and machine learning, 
 
 # Research Interests
 - **Representation Learning**
-  - Learning theory \& principles, generalization, robustness, transferability.
+  - Learning theory & principle, generalization, robustness, transferability.
 - **Sentiment Analysis**
   - Sentiment classification, emotion recognition, dimensional emotion analysis.
 - **Trustworthy Large Language Models**
@@ -113,7 +113,7 @@ Co-author Publications:
 
 
 # 🎖 Awards
-- Merit Student of UCAS, 2024. (< 2.7\%)
+- Merit Student of UCAS, 2024. (< 2.7%)
 - Best System Award, the AfriSenti-SemEval Task, SemEval-2023. (Team Leader)
 - First Prize, the Sentiment Analysis for African Languages Task, SemEval-2023. (1/213, Team Leader)
 - First Prize, the Patronizing and Condescending Language Detection Task, SemEval-2022.  (1/300, Team Leader)
