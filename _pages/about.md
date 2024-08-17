@@ -74,7 +74,7 @@ First-author Publications:
   ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
-  Lingwei Wei*, ``Dou Hu``\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu.
+  Lingwei Wei, ``Dou Hu``\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu.
   ``ECML-PKDD 2020`` [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)] (\* Equal Contribution)
 
 
@@ -97,7 +97,7 @@ Co-author Publications:
 
 - **PALI-NLP at SemEval-2022 Task 6: iSarcasmEval- Fine-tuning the Pre-trained Model for Detecting Intended Sarcasm**. \
   Xiyang Du, ``Dou Hu``, Meizhi Jin, Lianxin Jiang, Xiaofeng Shi.
-  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.153/)] 
+  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.112/)] 
 
 - **PALI at SemEval-2022 Task 7: Identifying Plausible Clarifications of Implicit and Underspecified Phrases in Instructional Texts**. \
   Mengyuan Zhou, ``Dou Hu``, Mengfei Yuan, Meizhi Jin, Xiyang Du, Lianxin Jiang, Yang Mo, Xiaofeng Shi.
