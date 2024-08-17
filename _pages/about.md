@@ -13,13 +13,19 @@ redirect_from:
 <span id="busuanzi_value_site_uv" style="display: none;"></span>
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
-He is a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research focuses on natural language processing and machine learning. 
-He achieved first place in 4 tasks at the SemEval Workshops, and was honored with the Best System Award at SemEval-2023.
+
+I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of **Prof. Songlin Hu**.
+Before my Ph.D., I obtained a Bachelor's degree in Physics from Shenzhen University. I also obtained a Master's degree in Software Engineering at the National Computer System Engineering Research Institute of China, under the supervision of **Prof. Xiaoyong Huai**. I have also worked as an algorithm researcher at China Electronics and Ping An of China.
+
+My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first prize in four tasks at the SemEval Workshops and received the Best System Award at SemEval-2023.
 
 # Research Interests
-- Representation Learning for NLP
-- Sentiment and Emotion Analysis
-- Trustworthy Large Language Models
+- **Representation Learning**
+  - Learning theory & principles, generalization, robustness, transferability.
+- **Sentiment Analysis**
+  - Sentiment classification, emotion recognition, dimensional emotion analysis.
+- **Trustworthy Large Language Models**
+  - Content moderation, hallucination mitigation.
 
 # 🔥 News
 - *May 2024*: 🎉 One paper is accepted to ACL 2024 main conference.
@@ -30,14 +36,9 @@ He achieved first place in 4 tasks at the SemEval Workshops, and was honored wit
 - *Jul 2023*: 🎖 Received the Best System Award at SemEval 2023.
 - *May 2023*: 🎉🎉 One paper is accepted to ACL 2023 main conference.
 
-<!--
-- *Mar 2023*: 🎖 Won the first place of the AfriSenti-SemEval Task at SemEval 2023.
-- *Dec 2022*: 🎉 One paper is accepted to Findings of EMNLP 2023.
-- *Sep 2022*: I start my PhD journey.
--->
 
 # 📖 Selected Publications
-A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/NAACL/TNNLS/TMM/etc. You can also browse his [Google Scholar profile](https://scholar.google.com/citations?user=cSUULYAAAAAJ). 
+A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/TNNLS/TMM/etc. You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=cSUULYAAAAAJ). 
 
 First-author Publications:
 
