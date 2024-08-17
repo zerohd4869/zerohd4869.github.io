@@ -21,11 +21,11 @@ My research interests include natural language processing and machine learning, 
 
 # Research Interests
 - **Representation Learning**
-  - Learning theory & principles, generalization, robustness, transferability.
+  - Learning theory \& principles, generalization, robustness, transferability.
 - **Sentiment Analysis**
   - Sentiment classification, emotion recognition, dimensional emotion analysis.
 - **Trustworthy Large Language Models**
-  - Content moderation, hallucination mitigation.
+  - LLM-generated content moderation, hallucination mitigation.
 
 # 🔥 News
 - *May 2024*: 🎉 One paper is accepted to ACL 2024 main conference.
