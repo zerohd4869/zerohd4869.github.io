@@ -112,12 +112,12 @@ Co-author Publications:
 
 
 # 🎖 Awards
-- Merit Student of UCAS, 2024.
-- Best System Award of the AfriSenti-SemEval Task, SemEval-2023.
-- First place of the Sentiment Analysis for African Languages Task, SemEval-2023.
-- First place of the Patronizing and Condescending Language Detection Task, SemEval-2022.
-- First place of the Intended Sarcasm Detection Task, SemEval-2022.
-- First place of the Multimedia Automatic Misogyny Identification Task, SemEval-2022. 
+- Merit Student of UCAS, 2024. (< 2.7\%)
+- Best System Award, the AfriSenti-SemEval Task, SemEval-2023. (Team Leader)
+- First Prize, the Sentiment Analysis for African Languages Task, SemEval-2023. (1/213, Team Leader)
+- First Prize, the Patronizing and Condescending Language Detection Task, SemEval-2022.  (1/300, Team Leader)
+- First Prize, the Intended Sarcasm Detection Task, SemEval-2022.
+- First Prize, the Multimedia Automatic Misogyny Identification Task, SemEval-2022. 
 
 
 # 💻 Experiences
