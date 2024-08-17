@@ -14,7 +14,7 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 He is a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. **Songlin Hu**. His research focuses on natural language processing and machine learning. 
-He achieved first place in 4 tasks at the SemEval Workshops, and was honored with the Best System Award at SemEval-2023 .
+He achieved first place in 4 tasks at the SemEval Workshops, and was honored with the Best System Award at SemEval-2023.
 
 # Research Interests
 - Representation Learning for NLP
