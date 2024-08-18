@@ -15,9 +15,9 @@ redirect_from:
 
 
 I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of **Prof. Songlin Hu**.
-Before my Ph.D., I obtained a Bachelor's degree in Physics from Shenzhen University. I also obtained a Master's degree in Software Engineering at the National Computer System Engineering Research Institute of China, under the supervision of **Prof. Xiaoyong Huai**. I have also worked as an algorithm researcher at China Electronics and Ping An of China.
+Before my Ph.D., I obtained a Bachelor's degree in Physics from Shenzhen University, and obtained a Master's degree in Software Engineering at the National Computer System Engineering Research Institute of China under the supervision of **Prof. Xiaoyong Huai**. I have also worked as an algorithm researcher at China Electronics and Ping An of China.
 
-My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first prize in four tasks at the SemEval Workshops and received the Best System Award at SemEval-2023.
+My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first prize in four tasks at the SemEval Challenge and received the Best System Award at SemEval-2023.
 
 # Research Interests
 - **Representation Learning**
@@ -32,7 +32,7 @@ My research interests include natural language processing and machine learning, 
 - *Feb 2024*: 🎉 One paper is accepted to LREC-COLING 2024 main conference.
 - *Dec 2023*: 🎉 One paper is accepted to ICASSP 2024 main conference.
 - *Dec 2023*: 🎉 One paper is accepted to AAAI 2024 main conference (Oral).
-- *Dec 2023*: Invited to serve as an Area Chair for NAACL 2024.
+- *Dec 2023*: Invited to serve as an Area Chair for NAACL ARR 2024.
 - *Jul 2023*: 🎖 Received the Best System Award at SemEval 2023.
 - *May 2023*: 🎉🎉 One paper is accepted to ACL 2023 main conference.
 
@@ -44,7 +44,7 @@ First-author Publications:
 
 - **Representation Learning with Conditional Information Flow Maximization**. \
   ``Dou Hu``, Lingwei Wei, Wei Zhou, Songlin Hu.
-  ``ACL 2024`` [[Paper](https://arxiv.org/abs/2406.05510)] [[Code](https://github.com/zerohd4869/CIFM)]
+  ``ACL 2024`` [[Paper](https://aclanthology.org/2024.acl-long.759/)] [[Code](https://github.com/zerohd4869/CIFM)]
   
 - **Structured Probabilistic Coding**. \
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu.
@@ -83,7 +83,7 @@ Co-author Publications:
 
 - **Transferring Structure Knowledge: A New Task to Fake news Detection Towards Cold-Start Propagation**. \
   Lingwei Wei, ``Dou Hu``, Wei Zhou, Songlin Hu.
-  ``ICASSP 2024``
+  ``ICASSP 2024`` [[Paper](https://ieeexplore.ieee.org/abstract/document/10447588/)]
   
 - **Multi-stream Information Fusion Framework for Emotional Support Conversation**. \
   Yinan Bao, ``Dou Hu``, Lingwei Wei, Shuchong Wei, Wei Zhou, Songlin Hu. ``LREC-COLING 2024``
