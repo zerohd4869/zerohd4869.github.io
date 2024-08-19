@@ -17,7 +17,7 @@ redirect_from:
 I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of **Prof. Songlin Hu**.
 Before my Ph.D., I obtained a Bachelor's degree in Physics from Shenzhen University, and obtained a Master's degree in Software Engineering at the National Computer System Engineering Research Institute of China under the supervision of **Prof. Xiaoyong Huai**. I have also worked as an algorithm researcher at China Electronics and Ping An of China.
 
-My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first prize in four tasks at the SemEval Challenge and received the Best System Award at SemEval-2023.
+My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first place in four tasks at the SemEval competition and received the Best System Award at SemEval-2023.
 
 # Research Interests
 - **Representation Learning**
@@ -75,8 +75,8 @@ First-author Publications:
   ``Journal of Computer Research and Development 2021`` [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
-  Lingwei Wei, ``Dou Hu``\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu.
-  ``ECML-PKDD 2020`` [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)] (\* Equal Contribution)
+  Lingwei Wei\*, ``Dou Hu``\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu.
+  ``ECML 2020`` [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)] (\* Equal Contribution)
 
 
 Co-author Publications:
@@ -133,4 +133,4 @@ Co-author Publications:
 
 # 📝 Academic Services
 - Journal Reviewer: TCSVT, EAAI
-- Conference Reviewer: NeurIPS 2024, ACL 2023/2024, EMNLP 2023, etc.
+- Conference Reviewer: NeurIPS 2024, ACL 2023/2024, EMNLP 2023/2024, etc.
