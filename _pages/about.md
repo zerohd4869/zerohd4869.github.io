@@ -132,5 +132,6 @@ Co-author Publications:
 - *Sep 2023*, Invited talk "Supervised Adversarial Contrastive Learning" at AI TIME.
 
 # 📝 Academic Services
+- Area Chair: NAACL ARR 2024
 - Journal Reviewer: TCSVT, EAAI
 - Conference Reviewer: NeurIPS 2024, ACL 2023/2024, EMNLP 2023/2024, etc.
