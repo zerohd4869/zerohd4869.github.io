@@ -14,10 +14,10 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 
-I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of **Prof. Songlin Hu**.
-Before my Ph.D., I obtained a Bachelor's degree in Physics from Shenzhen University, and obtained a Master's degree in Software Engineering at the National Computer System Engineering Research Institute of China under the supervision of **Prof. Xiaoyong Huai**. I have also worked as an algorithm researcher at China Electronics and Ping An of China.
-
+I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of **Prof. Songlin Hu**. 
 My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first place in four tasks at the SemEval competition and received the Best System Award at SemEval-2023.
+
+Before my Ph.D., I received a Master's degree in Software Engineering at the National Computer System Engineering Research Institute of China, under the supervision of **Prof. Xiaoyong Huai**. And I obtained a Bachelor's degree in Physics from Shenzhen University. I have also worked as an algorithm researcher at China Electronics and Ping An of China.
 
 # Research Interests
 - **Representation Learning**
@@ -33,7 +33,7 @@ My research interests include natural language processing and machine learning, 
 - *Dec 2023*: 🎉 One paper is accepted to ICASSP 2024 main conference.
 - *Dec 2023*: 🎉 One paper is accepted to AAAI 2024 main conference (Oral).
 - *Dec 2023*: Invited to serve as an Area Chair for NAACL ARR 2024.
-- *Jul 2023*: 🎖 Received the Best System Award at SemEval 2023.
+- *Jul 2023*: 🎖 Received the Best System Award at SemEval 2023 in Task 12.
 - *May 2023*: 🎉🎉 One paper is accepted to ACL 2023 main conference.
 
 
@@ -113,13 +113,12 @@ Co-author Publications:
 
 
 # 🎖 Awards
-- Merit Student of UCAS, 2024. (< 2.7%)
-- Best System Award, the AfriSenti-SemEval Task, SemEval-2023. (Team Leader)
-- First Prize, the Sentiment Analysis for African Languages Task, SemEval-2023. (1/213, Team Leader)
-- First Prize, the Patronizing and Condescending Language Detection Task, SemEval-2022.  (1/300, Team Leader)
-- First Prize, the Intended Sarcasm Detection Task, SemEval-2022.
-- First Prize, the Multimedia Automatic Misogyny Identification Task, SemEval-2022. 
-
+- Merit Student of UCAS, 2024. (Top 2.7%)
+- Best System Award at SemEval 2023 in Task 12. (Team Leader)
+- First Prize, Sentiment Analysis for African Languages Task, SemEval 2023. (1/213, Team Leader)
+- First Prize, Patronizing and Condescending Language Detection Task, SemEval 2022.  (1/300, Team Leader)
+- First Prize, Intended Sarcasm Detection Task, SemEval 2022.
+- First Prize, Multimedia Automatic Misogyny Identification Task, SemEval 2022.
 
 # 💻 Experiences
 - *Aug 2021 - Aug 2022*, Researcher, Ping An of China.
@@ -134,4 +133,4 @@ Co-author Publications:
 # 📝 Academic Services
 - Area Chair: NAACL ARR 2024
 - Journal Reviewer: TCSVT, EAAI
-- Conference Reviewer: NeurIPS 2024, ACL 2023/2024, EMNLP 2023/2024, etc.
+- Conference Reviewer: ICLR 2025, NeurIPS 2024, ACL 2023/2024, EMNLP 2023/2024, etc.
