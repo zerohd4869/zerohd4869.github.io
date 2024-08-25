@@ -120,6 +120,9 @@ Co-author Publications:
 - First Prize, Intended Sarcasm Detection Task, SemEval 2022.
 - First Prize, Multimedia Automatic Misogyny Identification Task, SemEval 2022.
 
+# 💻 Work Experiences
+- *Aug 2021 - Aug 2022*, Researcher, Ping An of China.
+- *Aug 2019 - Aug 2021*, Research Intern, China Electronics.
 
 # 💬 Invited Talks
 - *Feb 2024*, Invited talk "Structured Probabilistic Coding" at AAAI-2024.
