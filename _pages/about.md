@@ -79,6 +79,10 @@ First-author Publications:
   Lingwei Wei\*, ``Dou Hu``\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu.
   ``ECML 2020`` [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)] (\* Equal Contribution)
 
+- **SLK-NER: exploiting second-order lexicon knowledge for Chinese NER**. \
+  ``Dou Hu``, Lingwei Wei.
+  ``SEKE 2020`` [[Paper](https://arxiv.org/abs/2007.08416)] [[Code](https://github.com/zerohd4869/SLK-NER)]
+
 
 Co-author Publications:
 
