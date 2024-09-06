@@ -18,7 +18,7 @@ I am currently a Ph.D. candidate at the University of Chinese Academy of Science
 My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first place in four tasks at the SemEval competitions and received the Best System Award at SemEval-2023 in Task 12.
 
 # Research Interests
-- **Representation Learning for NLP**
+- **Representation Learning**
   - Learning theory & principle, generalization, robustness, transferability.
 - **Sentiment Analysis**
   - Sentiment classification, emotion recognition, dimensional emotion analysis.
@@ -83,7 +83,7 @@ First-author Publications:
 
 Co-author Publications:
 
-- **Transferring Structure Knowledge: A New Task to Fake news Detection Towards Cold-Start Propagation**. \
+- **Transferring Structure Knowledge: A New Task to Fake News Detection Towards Cold-Start Propagation**. \
   Lingwei Wei, ``Dou Hu``, Wei Zhou, Songlin Hu.
   ``ICASSP 2024`` [[Paper](https://ieeexplore.ieee.org/abstract/document/10447588/)]
   
