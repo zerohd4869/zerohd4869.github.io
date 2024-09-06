@@ -17,6 +17,8 @@ redirect_from:
 I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of **Prof. Songlin Hu**. 
 My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first place in four tasks at the SemEval competitions and received the Best System Award at SemEval-2023 in Task 12.
 
+Previously, I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China. I have also worked as a NLP researcher at China Electronics and Ping An of China before starting my PhD. 
+
 # Research Interests
 - **Representation Learning**
   - Learning theory & principle, generalization, robustness, transferability.
