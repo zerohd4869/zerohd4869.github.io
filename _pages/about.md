@@ -15,7 +15,7 @@ redirect_from:
 
 
 I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of **Prof. Songlin Hu**. 
-My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first place in four tasks at the SemEval competitions and received the Best System Award at SemEval-2023 in Task 12.
+My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first place in four tasks at the SemEval competitions and received the Best System Award at SemEval-2023.
 
 Previously, I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China. I have also worked as a NLP researcher at China Electronics and Ping An of China before starting my PhD. 
 
@@ -38,7 +38,7 @@ Previously, I completed my bachelor's degree in Physics from Shenzhen University
 
 
 # 📖 Selected Publications
-A growing list of conference and Journal publications papers at ACL/AAAI/EMNLP/TNNLS/TMM/etc. You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=cSUULYAAAAAJ). 
+A growing list of conference and Journal publications at ACL/AAAI/EMNLP/TNNLS/etc. You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=cSUULYAAAAAJ). 
 
 First-author Publications:
 
@@ -116,12 +116,16 @@ Co-author Publications:
 
 
 # 🎖 Awards
-- Merit Student of UCAS, 2024. (Top 2.7%)
-- Best System Award at SemEval 2023 in Task 12. (Team Leader)
-- First Prize, Sentiment Analysis for African Languages Task, SemEval 2023. (1/213, Team Leader)
-- First Prize, Patronizing and Condescending Language Detection Task, SemEval 2022.  (1/300, Team Leader)
-- First Prize, Intended Sarcasm Detection Task, SemEval 2022.
-- First Prize, Multimedia Automatic Misogyny Identification Task, SemEval 2022.
+- National Scholarship, China’s Ministry of Education, 2024
+- Pacemaker to Merit Student, University of Chinese Academy of Sciences, 2023
+- Merit Student, University of Chinese Academy of Sciences, 2023
+- Best System Award, Afrisenti-SemEval 2023
+- First Prize, Sentiment Analysis for African Languages Task (1/213, Team Leader), SemEval 2023
+- First Prize, Patronizing and Condescending Language Detection Task (1/300, Team Leader), SemEval 2022
+- First Prize, Intended Sarcasm Detection Task, SemEval 2022
+- First Prize, Multimedia Automatic Misogyny Identification Task, SemEval 2022
+- Runner-up, Identifying Plausible Clarifications Task, SemEval 2022
+
 
 # 💬 Invited Talks
 - *Feb 2024*, Invited talk "Structured Probabilistic Coding" at AAAI-2024.
@@ -132,4 +136,4 @@ Co-author Publications:
 # 📝 Academic Services
 - Area Chair: NAACL ARR 2024
 - Journal Reviewer: TCSVT, EAAI
-- Conference Reviewer: ICLR 2025, NeurIPS 2024, ACL 2023/2024, EMNLP 2023/2024, KDD 2025, etc.
+- Conference Reviewer: ACL 2023/2024, NeurIPS 2024, ICLR 2025, EMNLP 2023/2024, etc.
