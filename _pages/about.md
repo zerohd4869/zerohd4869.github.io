@@ -34,7 +34,7 @@ Previously, I completed my bachelor's degree in Physics from Shenzhen University
 - *Dec 2023*: 🎉 One paper is accepted to AAAI 2024 main conference (Oral).
 - *Dec 2023*: Invited to serve as an Area Chair for NAACL ARR 2024.
 - *Jul 2023*: 🎖 Received the Best System Award at SemEval 2023 in Task 12.
-- *May 2023*: 🎉🎉 One paper is accepted to ACL 2023 main conference.
+- *May 2023*: 🎉 One paper is accepted to ACL 2023 main conference.
 
 
 # 📖 Selected Publications
@@ -59,7 +59,7 @@ First-author Publications:
   [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
 
 - **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
-  **Dou Hu**, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi.
+  ``Dou Hu``, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi.
   ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43.pdf)] 
 
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  \
