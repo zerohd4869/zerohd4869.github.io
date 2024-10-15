@@ -58,6 +58,10 @@ First-author Publications:
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``SemEval@ACL 2023 (Best System Award)``
   [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
 
+- **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
+  **Dou Hu**, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi.
+  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43.pdf)] 
+
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  \
   ``Dou Hu``, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi.
   ``Findings of EMNLP 2022`` [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
