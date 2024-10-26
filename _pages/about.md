@@ -14,18 +14,17 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 
-I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of **Prof. Songlin Hu**. 
-My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models. I achieved first place in four tasks at the SemEval competitions and received the Best System Award at SemEval-2023.
+I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China. My research interests include natural language processing and machine learning, with a recent focus on representation learning theory, sentiment analysis, and trustworthy large language models.
 
-Previously, I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China. I have also worked as a NLP researcher at China Electronics and Ping An of China before starting my PhD. 
+
 
 # Research Interests
 - **Representation Learning**
-  - Learning theory & principle, generalization, robustness, transferability.
+  - Learning theory & principle, generalization and robustness, multi-task representation learning.
 - **Sentiment Analysis**
   - Sentiment classification, emotion recognition, dimensional emotion analysis.
-- **Trustworthy Large Language Models**
-  - LLM-generated content moderation, LLM hallucination mitigation.
+- **Trustworthy Machine Learning**
+  - Trustworthy LLMs, misinformation detection, harmful content detection
 
 # 🔥 News
 - *May 2024*: 🎉 One paper is accepted to ACL 2024 main conference.
@@ -58,13 +57,13 @@ First-author Publications:
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. ``SemEval@ACL 2023 (Best System Award)``
   [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
 
-- **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
-  ``Dou Hu``, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi.
-  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43.pdf)] 
-
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  \
   ``Dou Hu``, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi.
   ``Findings of EMNLP 2022`` [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
+
+- **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
+  ``Dou Hu``, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi.
+  ``SemEval@NAACL 2022`` [[Paper](https://aclanthology.org/2022.semeval-1.43/)] 
 
 - **MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations**. \
   ``Dou Hu``, Xiaolong Hou, Lingwei Wei, Lianxin Jiang, Yang Mo.
@@ -80,7 +79,7 @@ First-author Publications:
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
   Lingwei Wei\*, ``Dou Hu``\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu.
-  ``ECML 2020`` [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)] (\* Equal Contribution)
+  ``ECML 2020`` [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)] (* denotes co-first authors)
 
 - **SLK-NER: exploiting second-order lexicon knowledge for Chinese NER**. \
   ``Dou Hu``, Lingwei Wei.
@@ -119,7 +118,7 @@ Co-author Publications:
 
 
 
-# 🎖 Awards
+# 🎖 Honors and Awards
 - National Scholarship, China’s Ministry of Education, 2024
 - Pacemaker to Merit Student, University of Chinese Academy of Sciences, 2023
 - Merit Student, University of Chinese Academy of Sciences, 2023
