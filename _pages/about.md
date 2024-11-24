@@ -14,7 +14,9 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 
-I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China. My research interests include natural language processing and machine learning. My research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on developing principled representation learning techniques to enhance language models' generalization, robustness, efficiency, and trustworthiness.
+I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China. 
+
+My research interests include natural language processing and machine learning. And my research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on developing principled representation learning techniques to enhance the generalization, robustness, efficiency, and trustworthiness of language models.
 
 
 
@@ -27,13 +29,16 @@ I am currently a Ph.D. candidate at the University of Chinese Academy of Science
   - Trustworthy LLMs, misinformation detection, harmful content detection
 
 # 🔥 News
-- *May 2024*: 🎉 One paper is accepted to ACL 2024 main conference.
-- *Feb 2024*: 🎉 One paper is accepted to LREC-COLING 2024 main conference.
-- *Dec 2023*: 🎉 One paper is accepted to ICASSP 2024 main conference.
-- *Dec 2023*: 🎉 One paper is accepted to AAAI 2024 main conference (Oral).
-- *Dec 2023*: Invited to serve as an Area Chair for ACL ARR 2023.
-- *Jul 2023*: 🎖 Received the Best System Award at SemEval 2023 in Task 12.
-- *May 2023*: 🎉🎉 Two papers are accepted to ACL 2023.
+- *Nov. 2024*, 🎤 I presented an invited talk on Information-theoretic Representation Learning at Hangzhou Dianzi University.
+- *Nov. 2024*: 🎖 I received the National Scholarship.
+- *May. 2024*: 🎉 One paper is accepted at ACL 2024.
+- *Feb. 2024*: 🎉 One paper is accepted at LREC-COLING 2024.
+- *Dec. 2023*: 🎉 One paper is accepted at ICASSP 2024.
+- *Dec. 2023*: 🎉 One paper is accepted at AAAI 2024 (Oral).
+- *Dec. 2023*: 📚 I served as an Area Chair for ACL ARR 2023.
+- *Jul. 2023*: 🏆 I received the Best System Award at SemEval 2023 in Task 12.
+- *May. 2023*: 🎉🎉 Two papers are accepted at ACL 2023.
+
 
 
 # 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=cSUULYAAAAAJ))
@@ -53,7 +58,7 @@ First-author Publications:
   [[Paper](https://aclanthology.org/2023.acl-long.606/)] [[Code](https://github.com/zerohd4869/SACL)]
 
 - **UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis**. \
-  **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *SemEval@ACL 2023*. (<font color="red">CCF-A Workshop, First Prize \& Best System Award </font>) \
+  **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *SemEval@ACL 2023*. (<font color="red">CCF-A Workshop, First Prize & Best System Award </font>) \
   [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
 
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  \
@@ -73,16 +78,12 @@ First-author Publications:
   [[Paper](https://aclanthology.org/2021.acl-long.547/)] [[Code](https://github.com/zerohd4869/DialogueCRN)]
 
 - **A Rumor Detection Approach based on Multi-relational Propagation Tree** (一种基于多关系传播树的谣言检测方法). \
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. *Journal of Computer Research and Development 2021* (<font color="red">CCF-A Chinese, Oral</font>) \
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. *Journal of Computer Research and Development 2021* (<font color="red">CCF-A Chinese</font>) \
   [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
   Lingwei Wei\*, **Dou Hu**\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
   [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)] (* denotes co-first authors)
-
-- **SLK-NER: exploiting second-order lexicon knowledge for Chinese NER**. \
-  **Dou Hu**, Lingwei Wei. *SEKE 2020*. (<font color="red">CCF-B</font>) \
-  [[Paper](https://arxiv.org/abs/2007.08416)] [[Code](https://github.com/zerohd4869/SLK-NER)]
 
 
 Co-author Publications:
@@ -96,8 +97,8 @@ Co-author Publications:
   [[Paper](https://aclanthology.org/2024.lrec-main.1046/)]
 
 - **Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach**. \
-  Lingwei Wei, **Dou Hu**, Wei Zhou, Xin Wang, Songlin Hu. *TNNLS 2024*. (<font color="red">CCF-B, SCI-Q1</font>)
-  \ [[Paper](https://ieeexplore.ieee.org/document/9837882)]
+  Lingwei Wei, **Dou Hu**, Wei Zhou, Xin Wang, Songlin Hu. *TNNLS 2024*. (<font color="red">CCF-B, SCI-Q1</font>) \
+  [[Paper](https://ieeexplore.ieee.org/document/9837882)]
 
 - **Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection**.  \
   Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. *TMM 2023*. (<font color="red">CCF-B, SCI-Q1</font>)
@@ -131,11 +132,11 @@ Co-author Publications:
 
 
 # 💬 Invited Talks
-- Nov. 2024, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", International Young Scientists Development Conference, Hangzhou Dianzi University.
-- Feb. 2024, Oral Presentation, "Structured Probabilistic Coding", AAAI-2024.
-- Jan. 2024, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
-- Jan. 2024, Youth PhD Talk "Structured Probabilistic Coding", AI TIME.
-- Sep. 2023, Youth PhD Talk "Supervised Adversarial Contrastive Learning", AI TIME.
+- *Nov. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", The International Forum of Young Scientists, Hangzhou Dianzi University.
+- *Feb. 2024*, Oral Presentation, "Structured Probabilistic Coding", AAAI-2024.
+- *Jan. 2024*, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
+- *Jan. 2024*, Youth PhD Talk "Structured Probabilistic Coding", AI TIME.
+- *Sep. 2023*, Youth PhD Talk "Supervised Adversarial Contrastive Learning", AI TIME.
 
 
 # 📝 Academic Services
