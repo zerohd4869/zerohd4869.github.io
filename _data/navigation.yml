@@ -7,9 +7,9 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-selected-publications-(full-list)"
+    url: "/#-selected-publications-full-list"
 
-  - title: "Awards"
+  - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Invited Talks"
