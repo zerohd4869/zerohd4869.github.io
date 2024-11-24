@@ -42,8 +42,8 @@ A growing list of conference and Journal publications at ACL/AAAI/EMNLP/TNNLS/et
 First-author Publications:
 
 - **Representation Learning with Conditional Information Flow Maximization**. \
-  ``Dou Hu``, Lingwei Wei, Wei Zhou, Songlin Hu.
-  ``ACL 2024`` [[Paper](https://aclanthology.org/2024.acl-long.759/)] [[Code](https://github.com/zerohd4869/CIFM)]
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. ``ACL 2024`` <font color="red">CCF-A</font> <span style="color:red">[CCF-A]</span><br> \
+   [[Paper](https://aclanthology.org/2024.acl-long.759/)] [[Code](https://github.com/zerohd4869/CIFM)]
   
 - **Structured Probabilistic Coding**. \
   ``Dou Hu``, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu.
