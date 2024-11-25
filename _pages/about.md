@@ -22,18 +22,17 @@ My research interests include natural language processing and machine learning. 
 
 # Research Interests
 - **Representation Learning**
-  - Learning theory & principle, generalization and robustness, multi-task representation learning.
+  - Learning theory & principle, generalization and robustness, multi-task representation learning
 - **Sentiment Analysis**
-  - Sentiment classification, emotion recognition, dimensional emotion analysis.
+  - Sentiment classification, emotion recognition, dimensional emotion analysis
 - **Trustworthy Machine Learning**
-  - Trustworthy LLMs, misinformation detection, harmful content detection
+  - Trustworthy LLMs (truthfulness, safety, fairness), misinformation detection, harmful content detection
 
 # 🔥 News
-- *Nov. 2024*, 🎤 I presented an invited talk on Information-theoretic Representation Learning at Hangzhou Dianzi University.
 - *Nov. 2024*: 🎖 I received the National Scholarship.
 - *May. 2024*: 🎉 One paper is accepted at ACL 2024.
-- *Feb. 2024*: 🎉 One paper is accepted at LREC-COLING 2024.
-- *Dec. 2023*: 🎉 One paper is accepted at ICASSP 2024.
+- *Feb. 2024*: 🎉 One paper is accepted at LREC-COLING 2024. Congrats to Yinan Bao!
+- *Dec. 2023*: 🎉 One paper is accepted at ICASSP 2024. Congrats to Lingwei Wei!
 - *Dec. 2023*: 🎉 One paper is accepted at AAAI 2024 (Oral).
 - *Dec. 2023*: 📚 I served as an Area Chair for ACL ARR 2023.
 - *Jul. 2023*: 🏆 I received the Best System Award at SemEval 2023 in Task 12.
@@ -123,7 +122,7 @@ Co-author Publications:
 - National Scholarship, China’s Ministry of Education, 2024
 - Pacemaker to Merit Student, University of Chinese Academy of Sciences, 2023-2024
 - Merit Student, University of Chinese Academy of Sciences, 2023-2024
-- Best System Award, Afrisenti-SemEval 2023
+- Best System Award, Afrisenti-SemEval 2023 (Primary Contributor)
 - First Prize, Sentiment Analysis for African Languages Task (1/213, Team Leader), SemEval 2023
 - First Prize, Patronizing and Condescending Language Detection Task (1/300, Team Leader), SemEval 2022
 - First Prize, Intended Sarcasm Detection Task, SemEval 2022
@@ -132,7 +131,7 @@ Co-author Publications:
 
 
 # 💬 Invited Talks
-- *Nov. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", The International Forum of Young Scientists, Hangzhou Dianzi University.
+- *Nov. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", International Forum of Young Scientists, Hangzhou Dianzi University.
 - *Feb. 2024*, Oral Presentation, "Structured Probabilistic Coding", AAAI-2024.
 - *Jan. 2024*, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
 - *Jan. 2024*, Youth PhD Talk "Structured Probabilistic Coding", AI TIME.
