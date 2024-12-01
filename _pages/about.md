@@ -14,7 +14,7 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 
-I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences and the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China. 
+I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China (Joint Program with UCAS). 
 
 My research interests include natural language processing and machine learning. And my research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on developing principled representation learning techniques to enhance the generalization, robustness, efficiency, and trustworthiness of language models.
 
@@ -57,21 +57,21 @@ First-author Publications:
   [[Paper](https://aclanthology.org/2023.acl-long.606/)] [[Code](https://github.com/zerohd4869/SACL)]
 
 - **UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis**. \
-  **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *SemEval@ACL 2023*. (<font color="red">CCF-A Workshop, First Prize & Best System Award </font>) \
+  **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *SemEval@ACL 2023*. (<font color="red">First Prize & Best System Award </font>) \
   [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
 
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  \
-  **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. *Findings of EMNLP 2022*. (<font color="red">CCF-B Findings</font>) \
+  **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. *Findings of EMNLP 2022*. (<font color="red">CCF-B</font>) \
   [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
-
-- **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
-  **Dou Hu**, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">CCF-B Workshop, First Prize</font>) \
-  [[Paper](https://aclanthology.org/2022.semeval-1.43/)] 
 
 - **MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations**. \
   **Dou Hu**, Xiaolong Hou, Lingwei Wei, Lianxin Jiang, Yang Mo. *ICASSP 2022*. (<font color="red">CCF-B</font>) \
   [[Paper](https://arxiv.org/abs/2203.02385)] [[Code](https://github.com/zerohd4869/MM-DFN)]
 
+- **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
+  **Dou Hu**, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">First Prize</font>) \
+  [[Paper](https://aclanthology.org/2022.semeval-1.43/)]
+  
 - **DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations**. \
   **Dou Hu**, Lingwei Wei, Xiaoyong Huai. *ACL-IJCNLP 2021*. (<font color="red">CCF-A, Oral</font>) \
   [[Paper](https://aclanthology.org/2021.acl-long.547/)] [[Code](https://github.com/zerohd4869/DialogueCRN)]
@@ -104,11 +104,11 @@ Co-author Publications:
   [[Paper](https://ieeexplore.ieee.org/document/10261246)]
 
 - **PALI-NLP at SemEval-2022 Task 6: iSarcasmEval- Fine-tuning the Pre-trained Model for Detecting Intended Sarcasm**. \
-  Xiyang Du, **Dou Hu**, Meizhi Jin, Lianxin Jiang, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">CCF-B Workshop, First Prize</font>) \
+  Xiyang Du, **Dou Hu**, Meizhi Jin, Lianxin Jiang, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">First Prize</font>) \
   [[Paper](https://aclanthology.org/2022.semeval-1.112/)] 
 
 - **PALI at SemEval-2022 Task 7: Identifying Plausible Clarifications of Implicit and Underspecified Phrases in Instructional Texts**. \
-  Mengyuan Zhou, **Dou Hu**, Mengfei Yuan, Meizhi Jin, Xiyang Du, Lianxin Jiang, Yang Mo, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">CCF-B Workshop, First Prize</font>) \
+  Mengyuan Zhou, **Dou Hu**, Mengfei Yuan, Meizhi Jin, Xiyang Du, Lianxin Jiang, Yang Mo, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">First Prize</font>) \
   [[Paper](https://aclanthology.org/2022.semeval-1.153/)] 
 
 - **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**. \
@@ -134,8 +134,8 @@ Co-author Publications:
 - *Nov. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", International Forum of Young Scientists, Hangzhou Dianzi University.
 - *Feb. 2024*, Oral Presentation, "Structured Probabilistic Coding", AAAI-2024.
 - *Jan. 2024*, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
-- *Jan. 2024*, Youth PhD Talk "Structured Probabilistic Coding", AI TIME.
-- *Sep. 2023*, Youth PhD Talk "Supervised Adversarial Contrastive Learning", AI TIME.
+- *Jan. 2024*, Youth PhD Talk, "Structured Probabilistic Coding", AI TIME.
+- *Sep. 2023*, Youth PhD Talk, "Supervised Adversarial Contrastive Learning", AI TIME.
 
 
 # 📝 Academic Services
