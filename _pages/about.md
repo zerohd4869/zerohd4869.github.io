@@ -14,7 +14,7 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 
-I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China (Joint Program with UCAS). 
+I am currently a Ph.D. candidate at University of Chinese Academy of Sciences (UCAS) and Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China (Joint Program with UCAS). 
 
 My research interests include natural language processing and machine learning. And my research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on developing principled representation learning techniques to enhance the generalization, robustness, efficiency, and trustworthiness of language models.
 
@@ -29,6 +29,7 @@ My research interests include natural language processing and machine learning. 
   - Trustworthy LLMs (truthfulness, safety, fairness), misinformation detection, harmful content detection
 
 # 🔥 News
+- *Dec. 2024*: 🎖 I received the Director's Scholarship (Excellent Prize).
 - *Nov. 2024*: 🎖 I received the National Scholarship.
 - *May. 2024*: 🎉 One paper is accepted at ACL 2024.
 - *Feb. 2024*: 🎉 One paper is accepted at LREC-COLING 2024. Congrats to Yinan Bao!
@@ -119,6 +120,7 @@ Co-author Publications:
 
 
 # 🎖 Honors and Awards
+- Director's Scholarship (Excellent Prize), IIE, CAS, 2024
 - National Scholarship, China’s Ministry of Education, 2024
 - Pacemaker to Merit Student, University of Chinese Academy of Sciences, 2023-2024
 - Merit Student, University of Chinese Academy of Sciences, 2023-2024
