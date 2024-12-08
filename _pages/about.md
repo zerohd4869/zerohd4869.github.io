@@ -14,7 +14,7 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 
-I am currently a Ph.D. candidate at University of Chinese Academy of Sciences (UCAS) and Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China (Joint Program with UCAS). 
+I am currently a Ph.D. candidate at University of Chinese Academy of Sciences (UCAS) and Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China (Joint Program with UCAS). Before starting my Ph.D., I have also worked as an algorithm researcher at China Electronics and Ping An of China.
 
 My research interests include natural language processing and machine learning. And my research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on developing principled representation learning techniques to enhance the generalization, robustness, efficiency, and trustworthiness of language models.
 
@@ -101,7 +101,7 @@ Co-author Publications:
   [[Paper](https://ieeexplore.ieee.org/document/9837882)]
 
 - **Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection**.  \
-  Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. *TMM 2023*. (<font color="red">CCF-B, SCI-Q1</font>)
+  Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. *TMM 2023*. (<font color="red">CCF-B, SCI-Q1</font>) \
   [[Paper](https://ieeexplore.ieee.org/document/10261246)]
 
 - **PALI-NLP at SemEval-2022 Task 6: iSarcasmEval- Fine-tuning the Pre-trained Model for Detecting Intended Sarcasm**. \
@@ -117,6 +117,15 @@ Co-author Publications:
   [[Paper](https://aclanthology.org/2021.acl-long.297/)] 
 
 
+# Industry Applications
+- **Galaxy Generative AI Safety Evaluation Platform**, IIE, CAS, 2023-2025. \
+  We developed a comprehensive safety evaluation platform for evaluating LLMs in China. The platform leverages three advanced representation learning techniques, including **Supervised Adversarial Contrastive Learning** (Hu et al., 2023a), **Structured Probabilistic Coding** (Hu et al., 2023b), and **Conditional Information Flow Maximization** (Hu et al., 2024), to achieve highly generalized and effective risk identification in generated content. It has generated over 100 automated risk reports for more than 60 mainstream LLMs in China, with detection performance significantly surpassing that of Google/OpenAI APIs.
+
+- **AI Cloud Interview**, Ping An of China, 2021-2023.  \
+  We developed an AI interview platform for training recruitment and employee. The platform use multi-task learning techniques for efficient model training and inference, enabling better intent understanding and interview evaluation. It has supported over 20 million interviews, totaling 3.4 million hours, and provided annual support for 4.72 million recruitment interviews. It won the 2022 Efma-Accenture Insurance Innovation Awards (Bronze).  
+ 
+- **Intelligent Visit Assistant Tool**, Ping An of China, 2021-2023.  \
+  We developed an AI-assisted visit tool for insurance sales. The tool leveraged the domain-specific pre-training technique **Variational Masked Autoencoder** (Hu et al., 2022) to enhance the language understanding capabilities of general PLMs for financial domain data. It has provided intelligent assistance and visit summaries for over 1 million agents during client interactions, achieving more than 10 million online client contacts annually. The system received the Outstanding Innovation Award at the 2021 IAAI International Summit.
 
 
 # 🎖 Honors and Awards
