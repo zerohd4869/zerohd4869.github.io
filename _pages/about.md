@@ -28,6 +28,7 @@ My research interests include natural language processing and machine learning. 
   - Trustworthy LLMs (truthfulness, safety, fairness), misinformation detection, harmful content detection
 
 # 🔥 News
+- *Dec. 2024*: 🎉 One paper is accepted at AAAI 2025.
 - *Dec. 2024*: 🎖 I received the Director's Scholarship (Excellent Prize).
 - *Nov. 2024*: 🎖 I received the National Scholarship.
 - *May. 2024*: 🎉 One paper is accepted at ACL 2024.
@@ -44,6 +45,9 @@ My research interests include natural language processing and machine learning. 
 
 First-author Publications:
 
+- **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. \
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2024*. (<font color="red">CCF-A</font>) \
+  
 - **Representation Learning with Conditional Information Flow Maximization**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2024*. (<font color="red">CCF-A</font>) \
   [[Paper](https://aclanthology.org/2024.acl-long.759/)] [[Code](https://github.com/zerohd4869/CIFM)]
