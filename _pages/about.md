@@ -46,7 +46,7 @@ My research interests include natural language processing and machine learning. 
 First-author Publications:
 
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. \
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2024*. (<font color="red">CCF-A</font>) \
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2024*. (<font color="red">CCF-A</font>)
   
 - **Representation Learning with Conditional Information Flow Maximization**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2024*. (<font color="red">CCF-A</font>) \
