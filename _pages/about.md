@@ -23,13 +23,13 @@ My research interests include natural language processing and machine learning. 
 - **Representation Learning**
   - Learning theory & principle, generalization and robustness, multi-task representation learning
 - **Sentiment Analysis**
-  - Sentiment classification, emotion recognition, dimensional emotion analysis
+  - Sentiment classification, emotion recognition, dimensional emotion analysis, irony detection, stance detection
 - **Trustworthy Machine Learning**
-  - Trustworthy LLMs (truthfulness, safety, fairness), misinformation detection, harmful content detection
+  - Trustworthy large language models (truthfulness, safety, fairness), misinformation detection, harmful content detection
 
 # 🔥 News
 - *Dec. 2024*: 🎉 One paper is accepted at AAAI 2025.
-- *Dec. 2024*: 🎖 I received the Director's Scholarship (Excellent Prize).
+- *Dec. 2024*: 🎖 I received the Director Scholarship (Excellent Prize).
 - *Nov. 2024*: 🎖 I received the National Scholarship.
 - *May. 2024*: 🎉 One paper is accepted at ACL 2024.
 - *Feb. 2024*: 🎉 One paper is accepted at LREC-COLING 2024. Congrats to Yinan Bao!
@@ -132,8 +132,8 @@ Co-author Publications:
 
 
 # 🎖 Honors and Awards
-- Director's Scholarship (Excellent Prize), IIE, CAS, 2024
-- National Scholarship, China’s Ministry of Education, 2024
+- Director Scholarship (Excellent Prize), IIE, CAS, 2024
+- National Scholarship, China’s Ministry of Education, 2024 
 - Pacemaker to Merit Student, University of Chinese Academy of Sciences, 2023-2024
 - Merit Student, University of Chinese Academy of Sciences, 2023-2024
 - Best System Award, Afrisenti-SemEval 2023 (Primary Contributor)
@@ -154,5 +154,5 @@ Co-author Publications:
 
 # 📝 Academic Services
 - Area Chair: ACL ARR 2023
-- Journal Reviewer: TCSVT, EAAI
-- Conference Reviewer: ACL 2023/2024, NeurIPS 2024, ICLR 2025, EMNLP 2023/2024, etc.
+- Conference Reviewer: ACL 2023/2024, EMNLP 2023/2024, NAACL 2024, NeurIPS 2024, KDD 2025, ICLR 2025, ICML 2025, etc.
+- Journal Reviewer: IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 	Engineering Applications of Artificial Intelligence (EAAI)
