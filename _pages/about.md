@@ -124,11 +124,11 @@ Co-author Publications:
 - **Galaxy Generative AI Safety Evaluation Platform**, IIE, CAS, 2023-2025. \
   We developed a comprehensive safety evaluation platform for evaluating LLMs in China. The platform leverages three advanced representation learning techniques, including **Supervised Adversarial Contrastive Learning** (Hu et al., 2023a), **Structured Probabilistic Coding** (Hu et al., 2023b), and **Conditional Information Flow Maximization** (Hu et al., 2024), to achieve highly generalized and effective risk identification in generated content. It has generated over 100 automated risk reports for more than 60 mainstream LLMs in China, with detection performance significantly surpassing that of Google/OpenAI APIs.
 
-- **AI Cloud Interview Platform**, Ping An of China, 2021-2023.  \
+- **AI Cloud Interview Platform**, Ping An Life Insurance, 2021-2023.  \
   We developed an AI interview platform for training recruitment and employee. The platform use multi-task learning techniques for efficient model training and inference, enabling better intent understanding and interview evaluation. It has supported over 20 million interviews, totaling 3.4 million hours, and provided annual support for 4.72 million recruitment interviews. It won the 2022 Efma-Accenture Insurance Innovation Awards (Bronze).  
  
-- **Intelligent Visit Assistant Tool**, Ping An of China, 2021-2023.  \
-  We developed an AI-assisted visit tool for insurance sales. The tool leveraged the domain-specific pre-training technique **Variational Masked Autoencoder** (Hu et al., 2022) to enhance the language understanding capabilities of general PLMs for financial domain data. It has provided intelligent assistance and visit summaries for over 1 million agents during client interactions, achieving more than 10 million online client contacts annually. The system received the Outstanding Innovation Award at the 2021 IAAI International Summit.
+- **Intelligent Visit Assistant Tool**, Ping An Life Insurance, 2021-2023.  \
+  We developed an AI-assisted visit tool for insurance sales. The tool leveraged the domain-specific pre-training technique **Variational Masked Autoencoder** (Hu et al., 2022) to enhance the language understanding capabilities of general PLMs for financial domain data. It has provided intelligent assistance and visit summaries for over 1 million agents during client interactions, achieving more than 10 million online client contacts annually.
 
 
 # 🎖 Honors and Awards
@@ -145,7 +145,8 @@ Co-author Publications:
 
 
 # 💬 Invited Talks
-- *Nov. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", International Forum of Young Scientists, Hangzhou Dianzi University.
+- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding" (面向自然语言理解的信息论表示学习), Lanzhou University.
+- *Nov. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", Hangzhou Dianzi University.
 - *Feb. 2024*, Oral Presentation, "Structured Probabilistic Coding", AAAI-2024.
 - *Jan. 2024*, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
 - *Jan. 2024*, Youth PhD Talk, "Structured Probabilistic Coding", AI TIME.
