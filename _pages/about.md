@@ -61,7 +61,7 @@ First-author Publications:
   [[Paper](https://aclanthology.org/2023.acl-long.606/)] [[Code](https://github.com/zerohd4869/SACL)]
 
 - **UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis**. \
-  **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *SemEval@ACL 2023*. (<font color="red">First Prize & Best System Award </font>) \
+  **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *SemEval@ACL 2023*. (<font color="red">First Prize & Best System Award</font>) \
   [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
 
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  \
@@ -145,8 +145,8 @@ Co-author Publications:
 
 
 # 💬 Invited Talks
-- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding" (面向自然语言理解的信息论表示学习), Lanzhou University.
-- *Nov. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", Hangzhou Dianzi University.
+- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", School of Information Science and Engineering, Lanzhou University.
+- *Nov. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", School of Computer Science, Hangzhou Dianzi University.
 - *Feb. 2024*, Oral Presentation, "Structured Probabilistic Coding", AAAI-2024.
 - *Jan. 2024*, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
 - *Jan. 2024*, Youth PhD Talk, "Structured Probabilistic Coding", AI TIME.
