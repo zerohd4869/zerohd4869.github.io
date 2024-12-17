@@ -146,7 +146,7 @@ Co-author Publications:
 
 # 💬 Invited Talks
 - *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding" (面向自然语言理解的信息论表示学习), School of Information Science and Engineering, Lanzhou University.
-- *Feb. 2024*, Poster Presentation, "Representation Learning with Conditional Information Flow Maximization", ACL-2024.
+- *Aug. 2024*, Poster Presentation, "Representation Learning with Conditional Information Flow Maximization", ACL-2024.
 - *Feb. 2024*, Oral Presentation, "Structured Probabilistic Coding", AAAI-2024.
 - *Jan. 2024*, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
 - *Jan. 2024*, Youth PhD Talk, "Structured Probabilistic Coding", AI TIME.
