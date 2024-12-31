@@ -47,6 +47,7 @@ First-author Publications:
 
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>)
+  [[Code](https://github.com/zerohd4869/InfoMTL)]
   
 - **Representation Learning with Conditional Information Flow Maximization**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2024*. (<font color="red">CCF-A</font>) \
@@ -124,16 +125,16 @@ Co-author Publications:
 - **Galaxy Generative AI Safety Evaluation Platform**, IIE, CAS, 2023-2025. \
   We developed a comprehensive safety evaluation platform for evaluating LLMs in China. The platform leverages three advanced representation learning techniques, including **Supervised Adversarial Contrastive Learning** (Hu et al., 2023a), **Structured Probabilistic Coding** (Hu et al., 2023b), and **Conditional Information Flow Maximization** (Hu et al., 2024), to achieve highly generalized and effective risk identification in generated content. It has generated over 100 automated risk reports for more than 60 mainstream LLMs in China, with detection performance significantly surpassing that of Google/OpenAI APIs.
 
-- **AI Cloud Interview Platform**, Ping An Life Insurance, 2021-2023.  \
+- **AI Cloud Interview Platform**, Ping An Life Insurance, 2021-2022.  \
   We developed an AI interview platform for training recruitment and employee. The platform use multi-task learning techniques for efficient model training and inference, enabling better intent understanding and interview evaluation. It has supported over 20 million interviews, totaling 3.4 million hours, and provided annual support for 4.72 million recruitment interviews.
  
-- **Intelligent Visit Assistant Tool**, Ping An Life Insurance, 2021-2023.  \
+- **Intelligent Visit Assistant Tool**, Ping An Life Insurance, 2021-2022.  \
   We developed an AI-assisted visit tool for insurance sales. The tool leveraged the domain-specific pre-training technique **Variational Masked Autoencoder** (Hu et al., 2022) to enhance the language understanding capabilities of general PLMs for financial domain data. It has provided intelligent assistance and visit summaries for over 1 million agents during client interactions, achieving more than 10 million online client contacts annually.
 
 
 # 🎖 Honors and Awards
 - Director Scholarship (Excellent Prize), IIE, CAS, 2024
-- National Scholarship, China’s Ministry of Education, 2024 
+- National Scholarship, China’s Ministry of Education, 2024
 - Pacemaker to Merit Student, University of Chinese Academy of Sciences, 2023-2024
 - Merit Student, University of Chinese Academy of Sciences, 2023-2024
 - Best System Award, Afrisenti-SemEval 2023 (Primary Contributor)
@@ -145,7 +146,8 @@ Co-author Publications:
 
 
 # 💬 Invited Talks
-- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding" (面向自然语言理解的信息论表示学习), School of Information Science and Engineering, Lanzhou University.
+- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding" (面向自然语言理解的信息论表示学习), School of Artificial Intelligence, Beijing Normal University.
+- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", School of Information Science and Engineering, Lanzhou University.
 - *Aug. 2024*, Poster Presentation, "Representation Learning with Conditional Information Flow Maximization", ACL-2024.
 - *Feb. 2024*, Oral Presentation, "Structured Probabilistic Coding", AAAI-2024.
 - *Jan. 2024*, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
