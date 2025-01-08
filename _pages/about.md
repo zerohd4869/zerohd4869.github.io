@@ -133,7 +133,8 @@ Co-author Publications:
 
 
 # 🎖 Honors and Awards
-- Director Scholarship (Excellent Prize), IIE, CAS, 2024
+- Baidu Scholarship (Global Top 40), Baidu, 2024
+- Director Scholarship (Excellent Prize), IIE CAS, 2024
 - National Scholarship, China’s Ministry of Education, 2024
 - Pacemaker to Merit Student, University of Chinese Academy of Sciences, 2023-2024
 - Merit Student, University of Chinese Academy of Sciences, 2023-2024
@@ -146,8 +147,6 @@ Co-author Publications:
 
 
 # 💬 Invited Talks
-- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding" (面向自然语言理解的信息论表示学习), School of Artificial Intelligence, Beijing Normal University.
-- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding", School of Information Science and Engineering, Lanzhou University.
 - *Aug. 2024*, Poster Presentation, "Representation Learning with Conditional Information Flow Maximization", ACL-2024.
 - *Feb. 2024*, Oral Presentation, "Structured Probabilistic Coding", AAAI-2024.
 - *Jan. 2024*, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
