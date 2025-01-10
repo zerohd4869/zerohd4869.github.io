@@ -14,7 +14,7 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 
-I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China (a joint program with UCAS). Before starting my Ph.D., I also worked as an algorithm researcher at Ping An and CEC.
+I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China (a joint program with UCAS). Before starting my Ph.D., I also worked as an algorithm researcher at Ping An.
 
 My research interests include natural language processing and machine learning. And my research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on developing principled representation learning techniques to enhance the generalization, robustness, efficiency, and trustworthiness of language models.
 
@@ -46,7 +46,7 @@ My research interests include natural language processing and machine learning. 
 First-author Publications:
 
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. \
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>)
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) \
   [[Code](https://github.com/zerohd4869/InfoMTL)]
   
 - **Representation Learning with Conditional Information Flow Maximization**. \
@@ -66,7 +66,7 @@ First-author Publications:
   [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
 
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  \
-  **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. *Findings of EMNLP 2022*. (<font color="red">CCF-B</font>) \
+  **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. *Findings of EMNLP 2022*. (<font color="red">CCF-B Findings</font>) \
   [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
 
 - **MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations**. \
@@ -147,8 +147,7 @@ Co-author Publications:
 
 
 # 💬 Invited Talks
-- *Aug. 2024*, Poster Presentation, "Representation Learning with Conditional Information Flow Maximization", ACL-2024.
-- *Feb. 2024*, Oral Presentation, "Structured Probabilistic Coding", AAAI-2024.
+- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding" (面向自然语言理解的信息论表示学习), School of Artificial Intelligence, Beijing Normal University.
 - *Jan. 2024*, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
 - *Jan. 2024*, Youth PhD Talk, "Structured Probabilistic Coding", AI TIME.
 - *Sep. 2023*, Youth PhD Talk, "Supervised Adversarial Contrastive Learning", AI TIME.
@@ -156,5 +155,5 @@ Co-author Publications:
 
 # 📝 Academic Services
 - Area Chair: ACL ARR 2023
-- Conference Reviewer: ACL 2023/2024, EMNLP 2023/2024, NAACL 2024, NeurIPS 2024, KDD 2025, ICLR 2025, ICML 2025, etc.
+- Conference Program Committee / Reviewer: ACL 2023/2024, EMNLP 2023/2024, NAACL 2024, NeurIPS 2024, KDD 2025, ICLR 2025, ICML 2025, etc.
 - Journal Reviewer: IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 	Engineering Applications of Artificial Intelligence (EAAI)
